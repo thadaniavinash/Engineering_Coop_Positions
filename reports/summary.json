@@ -1,0 +1,21 @@
+{
+  "checked_on": "2026-09-23",
+  "counts": {
+    "Verified match": 2,
+    "Needs confirmation": 11,
+    "Excluded": 6,
+    "Closed": 0
+  },
+  "changes": [
+    {
+      "key": "ems-tech:belleville-mechanical-may2027",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "construction demathieu & bard:48194",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    }
+  ]
+}
