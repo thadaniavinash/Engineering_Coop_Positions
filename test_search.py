@@ -38,6 +38,13 @@ class DiscoveryTests(unittest.TestCase):
     def test_non_job_pages_only_in_raw_hits(self):
         for title,url in [('Mechanical engineering student resume','https://x.ca/resume'),('20 mechanical co-op jobs','https://x.ca/search')]:
             self.assertIsNone(search.candidate(dict(title=title,url=url),'2026-09-23'))
+    def test_real_cloud_noise(self):
+        for url in ['https://www.algonquincollege.com/sat/program/mechanical-engineering/','https://www.ziprecruiter.com/Jobs/Engineering-Coop/--in-Ontario','https://ca.linkedin.com/jobs/mechatronics-engineering-coop-jobs']:
+            self.assertIsNone(search.candidate(dict(title='Mechanical engineering co-op',url=url),'2026-09-23'))
+    def test_early_and_computer_related_titles(self):
+        for title in ['Mechanical Intern Winter 2027','Software Engineering Intern','Engineering co-op - 8 month']:
+            r=search.candidate(dict(title=title,url='https://example.com/job'),'2026-09-23')
+            self.assertEqual(report.classify(r),'Excluded')
     def test_complete_pipeline_and_failed_discovery(self):
         with tempfile.TemporaryDirectory(dir='.') as tmp:
             root=Path(tmp); config=root/'config.json'

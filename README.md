@@ -1,10 +1,10 @@
 # Ontario engineering co-op search
 
-This folder is ready to upload to a GitHub repository. It is not yet deployed or scheduled in your account.
+Deployed to https://github.com/thadaniavinash/Engineering_Coop_Positions with a daily GitHub Actions schedule. Open Actions to run it manually or download the latest report. Both computers can be off.
 
 ## What runs
 
-GitHub starts an Ubuntu computer at 11:17 UTC daily (7:17 a.m. Toronto during daylight time; 6:17 a.m. in winter). It installs the free search library, runs checks, searches, saves reports, then shuts down. Your laptop, desktop and ChatGPT can all be off. Saturday runs search the entire employer queue; other days rotate employers while searching all ten seed sites and the engineering topics every day.
+GitHub starts an Ubuntu computer at 11:17 UTC daily (7:17 a.m. Toronto during daylight time; 6:17 a.m. in winter). It installs the free search library, runs checks, searches, saves reports, then shuts down. Your laptop, desktop and ChatGPT can all be off. Saturday runs attempt the entire employer queue; other days rotate employers while searching all ten seed sites and the engineering topics every day.
 
 Search scope: all Ontario, with Newmarket proximity a preference only. Mechanical, electrical, mechatronics, civil/structural, chemical/process, materials, industrial/manufacturing, aerospace, environmental, biomedical, nuclear, quality, automation and systems roles. Desired start is May 2027 or later; desired length is 12 or 16 months. Unknown information is retained for review. A computer-engineering role is excluded when identified; merely listing computer engineering among several eligible degrees does not exclude an electrical or mechatronics role.
 
@@ -21,7 +21,7 @@ The free bot uses public metasearch through DDGS plus direct static visits to em
 
 Each run also supplies a downloadable ZIP in GitHub Actions. No email service is configured. GitHub can send workflow-failure notifications according to your account settings. Nothing applies for jobs or contacts employers.
 
-## Set up on GitHub — no desktop scheduling required
+## Setup instructions (deployment is already complete for the supplied repository)
 
 1. Unzip `GitHubJobSearch.zip` on either computer.
 2. Sign in at https://github.com and create a new **private** repository, for example `ontario-coop-search`. Leave its initial README unchecked.
@@ -33,7 +33,7 @@ Each run also supplies a downloadable ZIP in GitHub Actions. No email service is
 8. The daily schedule is now defined by the uploaded workflow. Check that the first scheduled run occurs. GitHub schedules can be delayed. Public-repository schedules can be disabled after 60 days of inactivity.
 9. To stop it, open the workflow's menu in Actions and choose **Disable workflow**. To change its time, edit the cron line in the workflow.
 
-The included `sample-results` directory is a limited live test, separate from the reviewed workbook. Reports in a private repository are visible to you and any collaborators you add. Your supplied repository, `thadaniavinash/Engineering_Coop_Positions`, was public when checked; its uploaded reports would be publicly visible.
+The downloadable local ZIP includes a `sample-results` directory from a limited local test, separate from the reviewed workbook. Cloud output is in `daily-results`. Reports in a private repository are visible to you and any collaborators you add. Your supplied repository, `thadaniavinash/Engineering_Coop_Positions`, was public when checked; its uploaded reports would be publicly visible.
 
 ## Cost
 

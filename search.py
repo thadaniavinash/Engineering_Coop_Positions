@@ -72,18 +72,42 @@ def candidate(hit, today):
     snippet=hit.get('body','')
     combined=title+' '+snippet
     if not STUDENT.search(combined) or not ENGINEERING.search(combined): return None
+    u=urlsplit(hit['url']); host=u.netloc.lower(); path=u.path.lower()
+    # Keep broad discovery pages in raw results without presenting them as vacancies.
+    if re.search(r'/(programs?|calendar|current-students|academics)/',path): return None
+    if any(h in host for h in ('reddit.com','ouinfo.ca','extern.com')): return None
+    if 'linkedin.com' in host and '/jobs/view/' not in path: return None
+    if 'indeed.com' in host and '/viewjob' not in path: return None
+    if 'ziprecruiter.' in host and path.startswith('/jobs/'): return None
+    if 'eluta.ca' in host and '/spl/' not in path: return None
+    if 'workopolis.com' in host and '/viewjob/' not in path: return None
+    if 'prosple.com' in host and '/jobs-internships/' not in path: return None
+    if 'talentegg.ca' in host and '/find-a-job/' in path: return None
+    if 'jooble.org' in host and '/jobs-' in path: return None
+    if 'jobs.lever.co' in host and len(path.strip('/').split('/'))<2: return None
+    if 'greenhouse.io' in host and '/jobs/' not in path: return None
+    if re.search(r'^(jobs at |job opportunities|co-op &|co-op opportunities|students &|explore internships|available internships|why join us|toyota canada careers|intern insider)',title,re.I): return None
     if re.search(r'resume|curriculum vitae|admission|college diploma|bachelor of|program availability|co-op.*program|engineering technology.*college',title,re.I): return None
     if re.search(r'/search(?:/|\?|$)|/q-[^/]+jobs',hit['url'],re.I) or re.search(r'\b\d+\s+.*jobs\b',title,re.I): return None
-    computer=bool(re.search(r'computer engineering',title,re.I))
+    computer=bool(re.search(r'computer engineering|software (?:engineer|develop|test)|cloud\s*&\s*devops',title,re.I))
+    start=None
+    if re.search(r'\b(?:winter|january)\s*2027\b',title,re.I): start='2027-01'
+    elif re.search(r'\bmay\s*2027\b',title,re.I): start='2027-05'
+    months=[]
+    duration=re.search(r'\b(\d{1,2})(?:\s*[-–]\s*(\d{1,2}))?\s*months?\b',title,re.I)
+    if duration:
+        lo=int(duration[1]); hi=int(duration[2] or duration[1])
+        months=list(range(lo,hi+1)) if lo<=hi else []
+    outside=bool(re.search(r'\bOntario,?\s*NY\b|\bBoston,?\s*Massachusetts\b',title,re.I))
     # A discipline in a list of eligible degrees is not the role's primary discipline.
     return dict(employer=hit.get('employer') or urlsplit(hit['url']).netloc,
         title=title,url=hit['url'],location='Ontario searched; location unverified',
         summary=snippet[:1600] or 'Direct employer link; description needs review.',
         evidence='Unverified automated discovery. Query/source: '+hit.get('query','direct board'),
         action='Confirm employer, Ontario location, May 2027+ start, 12/16 months and degree eligibility.',
-        start_label='Unverified',duration_label='Unverified',duration_months=[],
-        duration_complete=False,engineering_fit=True,computer_engineering=computer,
-        student_role=True,ontario=None,official_verified=False,live_verified=False,
+        start_month=start,start_label=(start+' (indexed title; unverified)') if start else 'Unverified',duration_label=(duration[0]+' (indexed title)') if duration else 'Unverified',duration_months=months,
+        duration_complete=bool(months),engineering_fit=True,computer_engineering=computer,
+        student_role=True,ontario=False if outside else None,official_verified=False,live_verified=False,
         eligibility_compatible=None,verified_on=None,discovered_on=today,
         distance_basis='No distance cutoff; commute unverified')
 

@@ -191,7 +191,7 @@
     "Prosple",
     "Intern Insider"
   ],
-  "schedule_status": "Workflow prepared; not deployed",
+  "schedule_status": "Deployed: GitHub Actions daily at 11:17 UTC",
   "hard_distance_limit_km": null,
   "excluded_disciplines": [
     "Computer engineering roles"
