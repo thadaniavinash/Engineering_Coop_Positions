@@ -1,0 +1,55 @@
+name: Ontario engineering co-op search
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 11 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: job-search
+  cancel-in-progress: false
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -v
+      - name: Search public boards and employer websites
+        id: search
+        continue-on-error: true
+        shell: bash
+        run: |
+          if [ "$(date -u +%u)" = "6" ]; then
+            python search.py --full
+          else
+            python search.py
+          fi
+      - name: Save downloadable results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: engineering-coop-results-${{ github.run_number }}
+          path: daily-results/
+          retention-days: 14
+          if-no-files-found: warn
+      - name: Retain history for next run
+        if: always()
+        shell: bash
+        run: |
+          if [ -d daily-results ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add daily-results
+            if ! git diff --cached --quiet; then
+              git commit -m 'Update engineering co-op search results'
+              git push
+            fi
+          fi
+      - name: Flag failed discovery
+        if: steps.search.outcome == 'failure'
+        run: exit 1
