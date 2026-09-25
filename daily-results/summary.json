@@ -1,29 +1,19 @@
 {
-  "checked_on": "2026-09-24",
+  "checked_on": "2026-09-25",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 5,
+    "Needs confirmation": 7,
     "Excluded": 1,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/winter-2027-co-op-electrical-engineer-ibns-team-at-lockheed-martin-4463469388",
-      "change": "Newly found",
+      "key": "energynews.pro:https://energynews.pro/en/jobs/winter-2027-co-op-engineering-durham-region-ontario-power-generation-18288",
+      "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "engineering.calendar.utoronto.ca:https://engineering.calendar.utoronto.ca/undergraduate-program-chemical-engineering-aechebasc",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "academiccalendars.romcmaster.ca:https://academiccalendars.romcmaster.ca/preview_program.php?catoid=53&poid=26829",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.glassdoor.ca:https://www.glassdoor.ca/job-listing/engineering-co-op-\u2013-mechanical-materials-mechatronics-16-months-johnson-electric-JV_KO0,63_KE64,80.htm?jl=1010042326278",
+      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01871998/RF-Mechanical-Engineer-Intern-Summer-2027-Onsite",
       "change": "Newly found",
       "status": "Needs confirmation"
     }
