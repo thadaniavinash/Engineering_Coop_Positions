@@ -1,7 +1,31 @@
 {
-  "checked_on": "2026-09-28",
+  "checked_on": "2026-09-29",
   "scope_note": "All Ontario; all engineering disciplines except computer engineering. Automated leads require review. Unknown term/location/eligibility is retained. 7/65 queries completed; 60 access gaps. Search coverage is bounded, not exhaustive.",
   "jobs": [
+    {
+      "employer": "ca.linkedin.com",
+      "title": "Winter 2027 Co-op - Mechanical Engineering Tech - LinkedIn",
+      "url": "https://ca.linkedin.com/jobs/view/winter-2027-co-op-mechanical-engineering-tech-manufacturing-support-at-lockheed-martin-4463973781",
+      "location": "Ontario searched; location unverified",
+      "summary": "Standard Job Description Join the Kanata Operations Team! We are looking for a talented and motivated Mechanical Engineering Tech Coop to work with the Manufacturing Engineer Team within our Operations team. In This Role You Will Be Responsible For Production Documentation: Implementation of engineering changes and making changes to production deliverables. Production Floor Planning: Support ...",
+      "evidence": "Unverified automated discovery. Query/source: mechanical engineering co-op Ontario 2027 12 16 months",
+      "action": "Confirm employer, Ontario location, May 2027+ start, 12/16 months and degree eligibility.",
+      "start_month": "2027-01",
+      "start_label": "2027-01 (indexed title; unverified)",
+      "duration_label": "Unverified",
+      "duration_months": [],
+      "duration_complete": false,
+      "engineering_fit": true,
+      "computer_engineering": false,
+      "student_role": true,
+      "ontario": null,
+      "official_verified": false,
+      "live_verified": false,
+      "eligibility_compatible": null,
+      "verified_on": null,
+      "discovered_on": "2026-09-29",
+      "distance_basis": "No distance cutoff; commute unverified"
+    },
     {
       "employer": "fandpmfg.com",
       "title": "Mechanical Engineering Co-op (January to April 2027) - F&P Mfg. Inc.",
@@ -23,7 +47,31 @@
       "live_verified": false,
       "eligibility_compatible": null,
       "verified_on": null,
-      "discovered_on": "2026-09-28",
+      "discovered_on": "2026-09-29",
+      "distance_basis": "No distance cutoff; commute unverified"
+    },
+    {
+      "employer": "www.uottawa.ca",
+      "title": "Chemical Engineering | Study",
+      "url": "https://www.uottawa.ca/study/career-experiential-learning/coop/coop-programs/chemical-engineering",
+      "location": "Ontario searched; location unverified",
+      "summary": "Co-op programs have limited enrolment. Meeting the admission criteria does not guarantee you a place. Admission is based on your CGPA. We admit those with the highest CGPA first \u00b7 Sequence 1 - all students follow this sequence",
+      "evidence": "Unverified automated discovery. Query/source: chemical process engineering co-op Ontario 2027 12 16 months",
+      "action": "Confirm employer, Ontario location, May 2027+ start, 12/16 months and degree eligibility.",
+      "start_month": null,
+      "start_label": "Unverified",
+      "duration_label": "Unverified",
+      "duration_months": [],
+      "duration_complete": false,
+      "engineering_fit": true,
+      "computer_engineering": false,
+      "student_role": true,
+      "ontario": null,
+      "official_verified": false,
+      "live_verified": false,
+      "eligibility_compatible": null,
+      "verified_on": null,
+      "discovered_on": "2026-09-29",
       "distance_basis": "No distance cutoff; commute unverified"
     },
     {
@@ -47,7 +95,7 @@
       "live_verified": false,
       "eligibility_compatible": null,
       "verified_on": null,
-      "discovered_on": "2026-09-28",
+      "discovered_on": "2026-09-29",
       "distance_basis": "No distance cutoff; commute unverified"
     },
     {
@@ -71,7 +119,7 @@
       "live_verified": false,
       "eligibility_compatible": null,
       "verified_on": null,
-      "discovered_on": "2026-09-28",
+      "discovered_on": "2026-09-29",
       "distance_basis": "No distance cutoff; commute unverified"
     },
     {
@@ -95,7 +143,7 @@
       "live_verified": false,
       "eligibility_compatible": null,
       "verified_on": null,
-      "discovered_on": "2026-09-28",
+      "discovered_on": "2026-09-29",
       "distance_basis": "No distance cutoff; commute unverified"
     },
     {
@@ -121,7 +169,7 @@
       "live_verified": false,
       "eligibility_compatible": null,
       "verified_on": null,
-      "discovered_on": "2026-09-28",
+      "discovered_on": "2026-09-29",
       "distance_basis": "No distance cutoff; commute unverified"
     }
   ],
@@ -130,525 +178,525 @@
       "source": "mechanical engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "20 search hits; indexed results are unverified",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "electrical engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "20 search hits; indexed results are unverified",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "mechatronics engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "20 search hits; indexed results are unverified",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "civil structural engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "20 search hits; indexed results are unverified",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "chemical process engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "20 search hits; indexed results are unverified",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "industrial manufacturing engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "20 search hits; indexed results are unverified",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "materials engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "19 search hits; indexed results are unverified",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "aerospace engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "environmental engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "biomedical engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "nuclear energy engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "quality reliability engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "automation robotics engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "design systems engineering co-op Ontario 2027 12 16 months",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "mechanical intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "electrical intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "mechatronics intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "civil structural intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "chemical process intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "industrial manufacturing intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "materials intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "aerospace intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "environmental intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "biomedical intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "nuclear energy intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "quality reliability intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "automation robotics intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "design systems intern Ontario \"May 2027\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:careers.celestica.com engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:multimatic.wd10.myworkdayjobs.com engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:www.magna.com engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:brucepower.wd3.myworkdayjobs.com engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:jobs.opg.com engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:www.tesla.com engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:careers.rtx.com engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:careers.honeywell.com engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:www.pgcareers.com engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:canada.aecom.jobs engineering student intern co-op 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Schaeffler\" engineering co-op internship Ontario 2027",
+      "source": "\"AtkinsR\u00e9alis\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Johnson Electric\" engineering co-op internship Ontario 2027",
+      "source": "\"Candu Energy\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Martinrea\" engineering co-op internship Ontario 2027",
+      "source": "\"Framatome\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Magna divisions\" engineering co-op internship Ontario 2027",
+      "source": "\"Kinectrics\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"StackTeck\" engineering co-op internship Ontario 2027",
+      "source": "\"WSP\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Litens\" engineering co-op internship Ontario 2027",
+      "source": "\"Stantec\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Mold-Masters\" engineering co-op internship Ontario 2027",
+      "source": "\"Dillon Consulting\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Pliteq\" engineering co-op internship Ontario 2027",
+      "source": "\"MCW\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Litmus Automation\" engineering co-op internship Ontario 2027",
+      "source": "\"Smith + Andersen\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"L3Harris\" engineering co-op internship Ontario 2027",
+      "source": "\"Novatrend\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"MDA Space\" engineering co-op internship Ontario 2027",
+      "source": "\"S&C Electric\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Bombardier\" engineering co-op internship Ontario 2027",
+      "source": "\"Siemens\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Safran\" engineering co-op internship Ontario 2027",
+      "source": "\"Bosch\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"Collins Aerospace\" engineering co-op internship Ontario 2027",
+      "source": "\"Eaton\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
-      "source": "\"BWXT\" engineering co-op internship Ontario 2027",
+      "source": "\"Schneider Electric\" engineering co-op internship Ontario 2027",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:linkedin.com/jobs engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:ca.indeed.com engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:eluta.ca engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:jobbank.gc.ca engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:talentegg.ca engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:jobs.ca engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:prosple.com engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:interninsider.me engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:myworkdayjobs.com engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:jobs.smartrecruiters.com engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:jobs.lever.co engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "site:job-boards.greenhouse.io engineering co-op Ontario \"2027\" \"months\"",
       "method": "Public metasearch",
       "result": "ACCESS GAP: CalledProcessError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": ""
     },
     {
       "source": "Celestica",
       "method": "Direct employer page",
       "result": "Page retrieved; 0 candidate links. Static-page coverage only; not a full board inventory.",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://careers.celestica.com/"
     },
     {
       "source": "Multimatic",
       "method": "Direct employer page",
       "result": "Page retrieved; 0 candidate links. Static-page coverage only; not a full board inventory.",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://multimatic.wd10.myworkdayjobs.com/MMEC"
     },
     {
       "source": "Magna",
       "method": "Direct employer page",
       "result": "Page retrieved; 0 candidate links. Static-page coverage only; not a full board inventory.",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://www.magna.com/careers/students"
     },
     {
       "source": "Bruce Power",
       "method": "Direct employer page",
       "result": "Page retrieved; 0 candidate links. Static-page coverage only; not a full board inventory.",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://brucepower.wd3.myworkdayjobs.com/BrucePower"
     },
     {
       "source": "OPG",
       "method": "Direct employer page",
       "result": "Page retrieved; 0 candidate links. Static-page coverage only; not a full board inventory.",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://jobs.opg.com/"
     },
     {
       "source": "Tesla",
       "method": "Direct employer page",
       "result": "ACCESS GAP: HTTPError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://www.tesla.com/en_CA/careers/search/?type=intern&site=CA"
     },
     {
       "source": "Pratt & Whitney Canada / RTX",
       "method": "Direct employer page",
       "result": "ACCESS GAP: HTTPError",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://careers.rtx.com/global/en/pratt-and-whitney-canada"
     },
     {
       "source": "Honeywell",
       "method": "Direct employer page",
       "result": "Page retrieved; 0 candidate links. Static-page coverage only; not a full board inventory.",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Canada"
     },
     {
       "source": "P&G",
       "method": "Direct employer page",
       "result": "Page retrieved; 0 candidate links. Static-page coverage only; not a full board inventory.",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://www.pgcareers.com/global/en/locations/canada"
     },
     {
       "source": "AECOM",
       "method": "Direct employer page",
       "result": "Page retrieved; 0 candidate links. Static-page coverage only; not a full board inventory.",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-29",
       "url": "https://canada.aecom.jobs/"
     }
   ]

@@ -1,10 +1,16 @@
 {
-  "checked_on": "2026-09-28",
+  "checked_on": "2026-09-29",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 5,
-    "Excluded": 0,
+    "Needs confirmation": 6,
+    "Excluded": 1,
     "Closed": 0
   },
-  "changes": []
+  "changes": [
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-2027-co-op-mechanical-engineering-tech-manufacturing-support-at-lockheed-martin-4463973781",
+      "change": "Newly found",
+      "status": "Excluded"
+    }
+  ]
 }
