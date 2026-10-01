@@ -1,330 +1,35 @@
 {
-  "checked_on": "2026-09-30",
+  "checked_on": "2026-10-01",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 52,
-    "Excluded": 20,
+    "Needs confirmation": 6,
+    "Excluded": 2,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "ca.talent.com:https://ca.talent.com/view",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/paper-mill-engineering-co-op-student-winter-2027-at-irving-tissue-4462855922",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/mechanical-co-op-winter-2027-at-hdr-4470012726",
       "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/reliability-engineering-co-op-at-thermo-fisher-scientific-4467325233",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.adzuna.ca:https://www.adzuna.ca/details/5896547826",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/corporate-reliability-engineering-co-op-student-winter-2027-12-month-term-at-irving-consumer-products-4462056920",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/Ti7_iipXbKXubgUfX97Hpr3zEp9cc1BnSUQjWVzpwDUhka1DSzlzUZJvQ9Os1nO3",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.thermofisher.com:https://jobs.thermofisher.com/global/en/job/R-01366617/Reliability-Engineering-Co-Op",
+      "key": "nuclearjobscanada.ca:https://nuclearjobscanada.ca/jobs/714509459-professional-engineering-year-12-16-months-may-2027",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/job-search",
+      "key": "shared.ontariotechu.ca:https://shared.ontariotechu.ca/shared/faculty/feas/documents/program-guide-2027-2028.pdf",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "www.zentrics.ca:https://www.zentrics.ca/careers.html",
+      "key": "nuclearjobscanada.ca:https://nuclearjobscanada.ca/jobs/625335897-intern-engineering",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "nuclearjobscanada.ca:https://nuclearjobscanada.ca/jobs/685651263-engineering-intern",
+      "key": "ca.jobrapido.com:https://ca.jobrapido.com/jobpreview/8175137712240590848",
       "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/SwhxTD2W3cKHCX8u-CzUZt2qwEAPDiieMI98fDG6YkVs4b6uQFt6PeobjkHGMHoy",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "bebee.com:https://bebee.com/ca/jobs/engineering-intern-westinghouse-electric-company-llc-burlington--techmap_ca_WestinghouseP_1428594400",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.agcareers.com:https://www.agcareers.com/cargill-intern-account-company-115986.cfm",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.engineeringcareers.ca:https://www.engineeringcareers.ca/job/2077165/process-engineering-student-conventional",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "bebee.com:https://bebee.com/ca/jobs/nanticoke-process-engineer-internship-exxon-mobil-corporation-port-dover--talent-639047617828102976",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.talent.com:https://ca.talent.com/fr/view",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "www.jobs.ca:https://www.jobs.ca/pgbpgnglobal/jobs/manufacturing-engineering-technical-co-op-may-2027-start-belleville-on-28ebbef301f9",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.internships.com:https://www.internships.com/browse/industrial-engineering",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.engineeringcareers.ca:https://www.engineeringcareers.ca/job/2085652/civil-engineering-internship-may-2027",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.eluta.ca:https://www.eluta.ca/spl/student-intern-materials-engineering-lab-6b05753e7f1d478d54ab885af1a060d5",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4441045555",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.stryker.com:https://careers.stryker.com/students-and-graduates",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.constellationenergy.com:https://jobs.constellationenergy.com/careers-home/jobs/138654?lang=en-us",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/co-op-intern-site-reliability-engineer-at-kinaxis-4462890476",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/quality-control-intern-at-interfor-4460768723",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "interfor.com:https://interfor.com/career/maintenance-quality-intern",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/firmware-design-intern-at-semtech-4471600010",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "brucepower.wd3.myworkdayjobs.com:https://brucepower.wd3.myworkdayjobs.com/en-US/BrucePower/job/Engineering-Development-Student--Future-Opportunity_10013803",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.honeywell.com:https://careers.honeywell.com/en/sites/Honeywell/jobs?keyword=internship&mode=location",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-intern-winter-2027-at-abb-4468622117",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "www.careerjet.ca:https://www.careerjet.ca/sustainable-development-intern-jobs",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.option-carriere.ca:https://www.option-carriere.ca/emploi-process-engineer-intern",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4460078423",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "rolesweep.com:https://rolesweep.com/jobs/e17faac2c74f3ec1ff2071a729c500e6-2027-energy-engineering-intern",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "tranetechnologies.wd12.myworkdayjobs.com:https://tranetechnologies.wd12.myworkdayjobs.com/en-US/Trane_Technologies_Careers/job/XMLNAME-2027-Engineering-Intern_JR-7590-1",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "prosple.com:https://prosple.com/graduate-employers/trane-technologies/jobs-internships/2027-engineering-intern",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.tranetechnologies.com:https://careers.tranetechnologies.com/global/en/co-ops",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-engineering-mass-properties-winter-2027-at-bombardier-4473298926",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "fr.workopolis.com:https://fr.workopolis.com/jobsearch/viewjob/IxmPup2yBFzMj8G7a6-NxkewNL69OMueP7SfexBvNAkkDCDmE0DvvEjWEFQL5hk5",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/HYK49lGu2Piw674j_jDfj3AnkewNd4lrv8qlL8LHknqN4m3p_Bjirv5rs-S1Dtbo",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.glassdoor.ca:https://www.glassdoor.ca/job-listing/engineering-intern-16-months-rotech-pumps-systems-JV_IC2280741_KO0,28_KE29,49.htm?jl=1010101304370",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "macleanengineering.com:https://macleanengineering.com/job/manufacturing-engineering-co-op-3",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/75IPUpV6GUhuzhwqhAUF5eGGy_HdkH8-Z3ik6V580Bkb1-AlP072Z5nE-t_TRNKl",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.inovait.ca:https://jobs.inovait.ca/companies/synaptive-medical/jobs/71071971-production-operations-co-op",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/OtUj6qtzEmChOQAzBUT0yej0It2P3mAtwp92kwyEsN4MUmEp99XwoKXGjaXUdm8P",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "en.wizbii.com:https://en.wizbii.com/company/unilever/job/factory-engineering-co-op-rexdale-ontario-8-months",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "www.pepsicojobs.com:https://www.pepsicojobs.com/internshipsprograms",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "pepjobs.mypepsico.com:https://pepjobs.mypepsico.com/students",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-co-op-2027-software-engineering-8-months-at-manulife-4460078684",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "talentegg.ca:https://talentegg.ca/career-guides/engineering",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "in.prosple.com:https://in.prosple.com/graduate-employers/boeing/jobs-internships/boeing-summer-2027-internship-program-paid-engineering",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "prosple.com:https://prosple.com/graduate-employers/raytheon-technologies/jobs-internships/co-op-software-engineer-remote",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "generalmotors.wd5.myworkdayjobs.com:https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "ciena.wd5.myworkdayjobs.com:https://ciena.wd5.myworkdayjobs.com/Careers",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "rockwellautomation.wd1.myworkdayjobs.com:https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "bmo.wd3.myworkdayjobs.com:https://bmo.wd3.myworkdayjobs.com/Campus",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000147511629-co-op-winter-2027-software-engineering-4-8-months",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000147561809-co-op-winter-2027-software-engineering-8-months",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149042859-co-op-winter-2027-systems-engineering-4-8-months",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149344878-co-op-winter-2027-systems-test-engineering-4-8-months",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149100009-co-op-winter-2027-systems-integration-verification-and-validation-8-12-months",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/oneclick-ui/company/GDMSI/publication/89dcac7f-9fd5-4a8d-b813-d316f4a6565e?dcr_ci=GDMSI",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621763002",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621740002",
-      "change": "Changed",
       "status": "Needs confirmation"
     }
   ]
