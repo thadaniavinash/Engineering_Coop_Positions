@@ -1,34 +1,99 @@
 {
-  "checked_on": "2026-10-01",
+  "checked_on": "2026-10-02",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 6,
-    "Excluded": 2,
+    "Needs confirmation": 19,
+    "Excluded": 5,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/mechanical-co-op-winter-2027-at-hdr-4470012726",
+      "key": "www.jobs.ca:https://www.jobs.ca/footage-tools-inc-175dd7dfc974/jobs/mechanical-or-mechatronics-engineering-co-op-8-12-months-vaughan-on-f9b8281418b5",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "canada.recruit.net:https://canada.recruit.net/search-aerospace-engineering-intern-jobs",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/pQs0GM9v4aKC682jbtqf9pZzqOJRm93v2_U5G8dx1DFFLfqY4Eo7PyicInsF96G_",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.coursecompare.ca:https://www.coursecompare.ca/best-engineering-schools-canada-ranking",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-univ-co-op-tech-electrical-engineering-at-framatome-4466325238",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.nexxt.com:https://www.nexxt.com/jobs/summer-2027-long-term-analog-and-mixed-signal-engineering-intern-co-op-thornhill-on-ca-3374156276-job.html",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.opg.com:https://jobs.opg.com/go/Our-Students-",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/reliability-engineering-co-op-at-thermo-fisher-scientific-4467325233",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "academiccalendars.romcmaster.ca:https://academiccalendars.romcmaster.ca/preview_program.php",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.engineeringcareers.ca:https://www.engineeringcareers.ca/job/2082540/mechanical-engineering-intern-summer-may-2027-16-months-",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "bebee.com:https://bebee.com/ca/jobs/internship-mechanical-engineer-cell-engineering-spring-2027-tesla-markham-ontario--t7xk-816836015",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.eluta.ca:https://www.eluta.ca/spl/summer-2027-long-term-thermal-mechanical-test-engineer-intern-co-op-d734f236e826a01442583d94f58c7066",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.indeed.com:https://ca.indeed.com/viewjob",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.engineeringcareers.ca:https://www.engineeringcareers.ca/job/2084251/wavelogic-modem-hw-engineering-intern-co-op-winter-2027-4-month-",
       "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "nuclearjobscanada.ca:https://nuclearjobscanada.ca/jobs/714509459-professional-engineering-year-12-16-months-may-2027",
+      "key": "www.adzuna.ca:https://www.adzuna.ca/details/5885853309",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.eng.mcmaster.ca:https://www.eng.mcmaster.ca/sept/degree-options/automation-systems-engineering-technology",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "shared.ontariotechu.ca:https://shared.ontariotechu.ca/shared/faculty/feas/documents/program-guide-2027-2028.pdf",
+      "key": "www.findyourjob.ca:https://www.findyourjob.ca/noc/noc2",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "nuclearjobscanada.ca:https://nuclearjobscanada.ca/jobs/625335897-intern-engineering",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.jobrapido.com:https://ca.jobrapido.com/jobpreview/8175137712240590848",
+      "key": "www.option-carriere.ca:https://www.option-carriere.ca/emploi-co-op-financial",
       "change": "Newly found",
       "status": "Needs confirmation"
     }
