@@ -1,9 +1,9 @@
 {
-  "checked_on": "2026-10-04",
+  "checked_on": "2026-10-06",
   "counts": {
     "Verified match": 0,
     "Needs confirmation": 0,
-    "Excluded": 0,
+    "Excluded": 1,
     "Closed": 0
   },
   "changes": []
