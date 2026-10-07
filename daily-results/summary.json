@@ -1,10 +1,116 @@
 {
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-07",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 0,
-    "Excluded": 1,
+    "Needs confirmation": 30,
+    "Excluded": 7,
     "Closed": 0
   },
-  "changes": []
+  "changes": [
+    {
+      "key": "nuclearjobscanada.ca:https://nuclearjobscanada.ca/jobs/co-op-student",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "energynews.pro:https://energynews.pro/en/jobs/winter-2027-co-op-engineering-durham-region-ontario-power-generation-18288",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobsiya.com:https://jobsiya.com/winter-co-op-2027-automation-engineer-12-months-toronto-ontario-canada-856531",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-co-op-2027-\u2013-automation-engineer-12-months-at-manulife-4473836628",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.manulife.com:https://careers.manulife.com/global/en/job/JR26091316/Winter-Co-op-2027-Automation-Engineer-12-months",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.ziprecruiter.com:https://www.ziprecruiter.com/c/manulife/Job/Winter-Co-op-2027-Automation-Engineer-(12-months)/-in-Toronto,ON?jid=b64fdd4cc305b76d",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/summer-2027-industrial-manufacturing-internships-at-lactalis-group-4475467150?pageNum=0&position=34",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/summer-2027-technical-engineering-internship-ontario-ny-associate-s-degree-only-at-constellation-4467113432",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.constellationenergy.com:https://jobs.constellationenergy.com/careers-home/jobs/138652",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.nokia.com:https://jobs.nokia.com/en/sites/CX_1/job/40117",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "github.com:https://github.com/Emjumaev/FAANG-2027-Internships-Tracker",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "mda.space:https://mda.space/careers",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.bwxt.com:https://careers.bwxt.com/job/Euclid-Quality-Engineer-InternCo-Op-Summer-2027-OH/1424939200",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobright.ai:https://jobright.ai/jobs/info/6aa8cf5710b1cd4f41604185",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobright.ai:https://jobright.ai/jobs/info/6a95b345c8763a3a87ffb83a",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.buildsubmarines.com:https://jobs.buildsubmarines.com/jobs/587761603-design-engineering-intern-co-op-summer-2027-at-bwxt",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.bwxt.com:https://careers.bwxt.com/go/Recent-Grad-and-Student-Jobs/3930400",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "pg.wd5.myworkdayjobs.com:https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Manufacturing---Engineering-Technical-Co-Op---Jan-2027-Start_R000158865",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/nexuse-group/be1c82ea-445b-485a-9d07-87e5f41f7af4",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621740002",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621756002",
+      "change": "Changed",
+      "status": "Excluded"
+    }
+  ]
 }
