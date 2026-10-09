@@ -1,10 +1,116 @@
 {
-  "checked_on": "2026-10-08",
+  "checked_on": "2026-10-09",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 0,
-    "Excluded": 0,
+    "Needs confirmation": 35,
+    "Excluded": 13,
     "Closed": 0
   },
-  "changes": []
+  "changes": [
+    {
+      "key": "engineeringcareers.utoronto.ca:https://engineeringcareers.utoronto.ca",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/o_sJSdqMtcXTqr2wZO-7H-MCd2dfnGlvciKWf46Zp5zwC3W11YRO3g",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/reliability-engineering-co-op-at-thermo-fisher-scientific-4467325233",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/summer-2027-industrial-manufacturing-internships-at-lactalis-canada-4476788743",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/ge-vernova-nuclear-canadian-licensing-intern-at-ge-vernova-4473980573?pageNum=0&position=36",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-US-Student-Intern,-AI-Engineer-NH/1437758533",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Supply-Line-Management-ON/1444040433",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "hitmarker.net:https://hitmarker.net/jobs/amd-short-term-2027-firmware-engineering-intern-co-op-4670019",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "macleanengineering.com:https://macleanengineering.com/job/manufacturing-engineering-co-op-3",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/75IPUpV6GUhuzhwqhAUF5eGGy_HdkH8-Z3ik6V580Bkb1-AlP072Z5nE-t_TRNKl",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "fr.glassdoor.ca:https://fr.glassdoor.ca/job-listing/manufacturing-engineering-co-op-maclean-engineering-JV_IC2285510_KO0,31_KE32,51.htm?jl=1010260346151",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/production-operations-co-op-at-synaptive-medical-4384084756?pageNum=0&position=3",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.owlindex.com:https://www.owlindex.com/academic-research-opportunities/sanofi-canada-january-2027-co-op-university-recruitment-program/13e8a4c6-f3f5-43fe-b3b8-c7fe1c18af93",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/test-engineering-co-op-may-2027-april-2028-at-skyworks-solutions-inc-4461516747",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.skyworksinc.com:https://careers.skyworksinc.com/job/RFIC-Co-Op-(Jan-Dec-2027)/78343-en_US",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/test-engineering-co-op-at-skyworks-solutions-inc-4465377120",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4470202998",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/i1vKUyjyeDUj2CPEMlOd6aUw3uCW3fJfXfzh3kSBPZwOiqRHgzhMpc7FAijgTTHG",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990015825896-civil-engineering-intern-2027",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/AECOM2/744000149399829-water-wastewater-process-engineering-intern",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621763002",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    }
+  ]
 }
