@@ -1,10 +1,301 @@
 {
-  "checked_on": "2026-10-10",
+  "checked_on": "2026-10-11",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 1,
-    "Excluded": 0,
+    "Needs confirmation": 57,
+    "Excluded": 15,
     "Closed": 0
   },
-  "changes": []
+  "changes": [
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/manufacturing-engineering-technical-co-op-jan-2027-start-at-procter-gamble-4463084006",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/corporate-reliability-engineering-co-op-student-winter-2027-12-month-term-at-irving-consumer-products-4462056920",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/lPddZqqBS5MM-ytIW9c7rPQ9US906fZr4iGjABDkLA7nAF0pwXId5w",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-co-op-2027-\u2013-automation-engineer-12-months-at-manulife-4473836628",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.metaintro.com:https://www.metaintro.com/job/winter-co-op-2027-automation-engineer-12-months-at-company-1-the-ad8b9487-2a7b-5a89-b289-634401505986",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/geotab-canada/jobs-internships/mechanical-engineering-intern-summermay-2027-16-months",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/summer-2027-industrial-manufacturing-internships-at-lactalis-group-4475467150?pageNum=0&position=10",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-Canada-Student-Intern,-Aerospace-and-Defense-Engineering-Associate-ON/1440660533",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/ge-vernova-nuclear-canadian-licensing-intern-at-ge-vernova-4473980573?pageNum=0&position=36",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-intern-global-quality-at-celestica-4468032277",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/co-op-intern-site-reliability-engineer-at-kinaxis-4462890476",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "interfor.com:https://interfor.com/career/maintenance-quality-intern",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/go/Students-and-Interns/8944801",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/content/Student-and-Grads?locale=en_US",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-US-Student-Intern,-AI-Engineer-NH/1437758533",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Process-and-Manufacturing-Engineer-ON/1441162033",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Test-Development-ON/1439151233",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Materials-Engineering-Lab-ON/1439146033",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01871697/Electrical-Engineering-Intern-Summer-2027",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01871506/Systems-Engineer-Spring-Summer-Co-op-2027-Onsite",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.pgcareers.com:https://www.pgcareers.com/us/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "canada.aecom.jobs:https://canada.aecom.jobs/calgary-ab/engineering-intern/43EEBE43814D4D609DD98FA49822ACDE/job",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "canada.aecom.jobs:https://canada.aecom.jobs/markham-on/architectural-engineering-intern/CF5EFE8E89154AA4A94EAFABE84FEFBE/job",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.husco.com:https://careers.husco.com/early-talent",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "integration.honda.ca:https://integration.honda.ca/careers",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/NOsS-273eDS1ffphY4m3q6IvmmvG7bQKdewQEmdxbIRb0xPbL-YzeRpEEEUfRZiX",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/4StBmpVNtzs_CS0qvy9u4L9gRZk7W2jlwsut7l_-i9UDXgInDJV_XRIEVrG-Ex8n",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-co-op-student-at-martinrea-international-4384942160?pageNum=0&position=3",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "martinrea.prevueaps.com:https://martinrea.prevueaps.com/jobs/328625.html",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "github.com:https://github.com/Bobwillrule/Canadian-Internship-List",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.eluta.ca:https://www.eluta.ca/spl/automation-co-op-student-b308285c328141b7b05d2a3c72221f49",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/summer-2027-technical-engineering-internship-ontario-ny-associate-s-degree-only-at-constellation-4467115420",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000147511629-co-op-winter-2027-software-engineering-4-8-months",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.talent.com:https://ca.talent.com/view?id=639659597075386497",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.auto-jobs.ca:https://www.auto-jobs.ca/app/en/offer/766081/engineering-intern",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.eluta.ca:https://www.eluta.ca/spl/engineering-intern-9dc0e6039fbd35f30f28aad4710c2462",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.l3harris.com:https://careers.l3harris.com/en/job/waterdown/mechanical-engineering-co-op-waterdown-can/4832/100741477040",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.l3harris.com:https://careers.l3harris.com/en/new-grads-and-interns",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.l3harris.com:https://careers.l3harris.com/en/job/waterdown/manufacturing-engineering-intern-service-co-op/4832/100667892528",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.l3harris.com:https://careers.l3harris.com/en/location/ontario-jobs/4832/6251999-6093943/3",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.l3harris.com:https://careers.l3harris.com/en/category/co-op-intern-jobs/4832/62394/1",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.l3harris.com:https://careers.l3harris.com/en/job/waterdown/test-and-integration-technician-co-op/4832/100087751312",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "tryfalcon.io:https://tryfalcon.io/internships/canada/mda-space",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.spacecapital.com:https://jobs.spacecapital.com/companies/mda/jobs/93586373-engineering-student-pcb-design-and-electronic-integration-winter-2027",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.bombardier.com:https://jobs.bombardier.com/job/Intern,-Aircraft-Performance-(Summer-2027)/15355-en_US",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-engineering-mass-properties-winter-2027-at-bombardier-4473298926",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.jobbank.gc.ca:https://www.jobbank.gc.ca/trend-analysis/labour-market-news/0/AB/*/all-news",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/Wabtec/3743990014652807-summer-2027-engineering-internship",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/nexuse-group/1c99ce4b-dfc4-423d-af93-ef73557baf4d",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621740002",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/hometapjobs/jobs/4927882007",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621763002",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/andurilindustries/jobs/5236563007",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    }
+  ]
 }
