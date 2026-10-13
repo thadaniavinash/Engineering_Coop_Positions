@@ -1,175 +1,110 @@
 {
-  "checked_on": "2026-10-12",
+  "checked_on": "2026-10-13",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 46,
+    "Needs confirmation": 41,
     "Excluded": 11,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4462056920",
+      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/civil-engineering-co-op-student-r-165931",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/reliability-engineering-co-op-at-thermo-fisher-scientific-4468978221",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.thermofisher.com:https://jobs.thermofisher.com/global/en/job/R-01328029/Reliability-Engineering-Co-Op",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/reliability-engineering-co-op-at-thermo-fisher-scientific-4467325233",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.jobillico.com:https://www.jobillico.com/en/job-offer/manulife-financial-corporation.mBxtVo/winter-co-op-2027-automation-engineer-12-months-/17585541",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/co-op-winter-2027-system-of-systems-engineering-8-16-months-ottawa-on-ca-ref1405u-opportunity",
       "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4470878947",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-co-op-2027-\u2013-automation-engineer-12-months-at-manulife-4473836628",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.metaintro.com:https://www.metaintro.com/job/winter-co-op-2027-automation-engineer-12-months-at-company-1-the-ad8b9487-2a7b-5a89-b289-634401505986",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobera.com:https://jobera.com/job/manulife-winter-co-op-2027-automation-engineer-12-months-f5e100e5",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-intern-global-quality-at-celestica-4468032277",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/co-op-intern-site-reliability-engineer-at-kinaxis-4462890476",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "interfor.com:https://interfor.com/career/maintenance-quality-intern",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-intern-robotic-process-automation-developer-it-at-celestica-4469983390?pageNum=0&position=48",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Robotic-Process-Automation-Developer-(IT)-ON/1439742433",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-US-Student-Intern,-AI-Engineer-NH/1437758533",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Austin-Student-Intern,-Mechanical-Engineering-TX/1435489733",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Materials-Engineering-Lab-ON/1439146033",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobright.ai:https://jobright.ai/jobs/info/6aa8cf5710b1cd4f41604185",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobright.ai:https://jobright.ai/jobs/info/6a95b345c8763a3a87ffb83a",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.buildsubmarines.com:https://jobs.buildsubmarines.com/jobs/587761603-design-engineering-intern-co-op-summer-2027-at-bwxt",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.bwxt.com:https://careers.bwxt.com/go/Recent-Grad-and-Student-Jobs/3930400",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-univ-co-op-tech-chemical-engineering-at-framatome-4466317401",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.ziprecruiter.com:https://www.ziprecruiter.com/c/framatome/Job/Intern-Univ-Co-Op-Tech-(Electrical-Engineering)/-in-Pickering,ON?jid=7db348e3963d8e45",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/hrzhTMtjs6wMK8IZyf0p6M6273k6UB5I317pcGw82eOZQLnj0ElRrg",
+      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/co-op-winter-2027-systems-engineering-4-8-months-ottawa-on-ca-ref1394y-opportunity",
       "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "tryfalcon.io:https://tryfalcon.io/internships/canada/wsp",
+      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/qualcomm-canada/jobs-internships/design-automation-quality-assurance-engineering-intern",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "www.jobbank.gc.ca:https://www.jobbank.gc.ca/trend-analysis/labour-market-news",
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Global-Quality-ON/1439158933",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "prosple.com:https://prosple.com/graduate-employers/pg/jobs-internships/engineering-internship-summer-2027",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/wavelogic-systems-design-architecture-intern-8-12-months-at-ciena-4436232208",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "canada.aecom.jobs:https://canada.aecom.jobs/calgary-ab/engineering-intern/43EEBE43814D4D609DD98FA49822ACDE/job",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "canada.aecom.jobs:https://canada.aecom.jobs/markham-on/architectural-engineering-intern/CF5EFE8E89154AA4A94EAFABE84FEFBE/job",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/IxmPup2yBFzMj8G7a6-NxkewNL69OMueP7SfexBvNAkkDCDmE0DvvEjWEFQL5hk5",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "simplify.jobs:https://simplify.jobs/p/de75794d-d7b3-4986-b72f-59bf9ce8daa1/Test-Engineering-Co-op",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.solidprofessor.com:https://jobs.solidprofessor.com/job/369411/test-engineering-co-op",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.jobillico.com:https://www.jobillico.com/en/job-offer/advanced-micro-devices-inckIvlOh/short-term-2027-firmware-engineering-intern-co-op/17491194",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "github.com:https://github.com/Bobwillrule/Canadian-Internship-List",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "www1.communitech.ca:https://www1.communitech.ca/companies/synaptive-medical/jobs/34051772-ai-co-op",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
       "key": "prosple.com:https://prosple.com/graduate-employers/pg/jobs-internships/engineering-co-op",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/BoschGroup/744000145348319-technical-functions-maintenance-intern-co-op-fall-2026",
       "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "pg.wd5.myworkdayjobs.com:https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Manufacturing---Engineering-Technical-Co-Op---Jan-2027-Start_R000158865",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "biibhr.wd3.myworkdayjobs.com:https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Co-op--Machine-Learning-Engineering_REQ24310",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000147511629-co-op-winter-2027-software-engineering-4-8-months",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.lever.co:https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.lever.co:https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.lever.co:https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.lever.co:https://jobs.lever.co/nexuse-group/1c99ce4b-dfc4-423d-af93-ef73557baf4d",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621740002",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/hometapjobs/jobs/4927882007",
-      "change": "Changed",
       "status": "Needs confirmation"
     }
   ]
