@@ -1,89 +1,134 @@
 {
-  "checked_on": "2026-10-13",
+  "checked_on": "2026-10-14",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 41,
+    "Needs confirmation": 65,
     "Excluded": 11,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/civil-engineering-co-op-student-r-165931",
-      "change": "Newly found",
+      "key": "engineeringcareers.utoronto.ca:https://engineeringcareers.utoronto.ca",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-engineering-co-op-intern-at-atkinsr\u00e9alis-4470650634",
+      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
       "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/reliability-engineering-co-op-at-thermo-fisher-scientific-4468978221",
-      "change": "Newly found",
+      "change": "Changed",
       "status": "Needs confirmation"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4462056920",
+      "change": "Changed",
+      "status": "Excluded"
     },
     {
       "key": "jobs.thermofisher.com:https://jobs.thermofisher.com/global/en/job/R-01328029/Reliability-Engineering-Co-Op",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/reliability-engineering-co-op-at-thermo-fisher-scientific-4467325233",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "www.jobillico.com:https://www.jobillico.com/en/job-offer/manulife-financial-corporation.mBxtVo/winter-co-op-2027-automation-engineer-12-months-/17585541",
+      "key": "fr.simplyhired.ca:https://fr.simplyhired.ca/job/f7FqmqteRcOD8ET9whsSXkji6Dzng3cJoxHqMUd9ODd4KK1tiuBiaw",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/co-op-winter-2027-system-of-systems-engineering-8-16-months-ottawa-on-ca-ref1405u-opportunity",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/co-op-winter-2027-systems-engineering-4-8-months-ottawa-on-ca-ref1394y-opportunity",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/qualcomm-canada/jobs-internships/design-automation-quality-assurance-engineering-intern",
+      "key": "careers.gevernova.com:https://careers.gevernova.com/ge-vernova-nuclear-ehs-intern-12-month-co-op/job/R5055380",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Global-Quality-ON/1439158933",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/robotics-controls-co-op-at-convergix-automation-solutions-4470465502",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/wavelogic-systems-design-architecture-intern-8-12-months-at-ciena-4436232208",
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "canada.aecom.jobs:https://canada.aecom.jobs/calgary-ab/engineering-intern/43EEBE43814D4D609DD98FA49822ACDE/job",
+      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01876912/Manufacturing-Engineering-Ops-Co-Op-Spring-Summer-2027",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.skyworksinc.com:https://careers.skyworksinc.com/job/Product-Engineering-Co-Op-(Jan-Dec-2027)/78462-en_US",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ems-tech.net:https://ems-tech.net/careers",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/zptmFhDtk2ZCp9hKT6fSY__5UN2KWXeSjbFjDUX8bm8xY5dGNERWbDsN8LUWlcLD",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.ziprecruiter.com:https://www.ziprecruiter.com/c/EMS-Tech-Inc/Job/Mechanical-Engineering-Co-Op-Internship/-in-Belleville,ON?jid=0f4c851d7e1b8e88",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/0dA8G5pSHQdpabDMawv7hnP06QOfd5lw_rS66RbC24AQbvJ9bf8w7A",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/FhncIzaWxYhPufWx3pvVTaFC_DJxQQNVvyomI_uXvDgvrIyHQeUltg6txuvIYzU-",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.careerbeacon.com:https://www.careerbeacon.com/en/job-9/3790660/ems-tech-inc/electrical-engineering-co-op-internship/belleville-on",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-co-op-junior-project-coordinator-january-2027-at-technopref-industries-inc-4461328953",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.hydroone.com:https://jobs.hydroone.com/job/Toronto-University-Co-Op-Student-Equipment-Engineering-and-Transmission-Asset-Planning-12-Months-Winter-2027-ON/1291561847",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "canada.aecom.jobs:https://canada.aecom.jobs/markham-on/architectural-engineering-intern/CF5EFE8E89154AA4A94EAFABE84FEFBE/job",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/IxmPup2yBFzMj8G7a6-NxkewNL69OMueP7SfexBvNAkkDCDmE0DvvEjWEFQL5hk5",
+      "key": "jobs.hydroone.com:https://jobs.hydroone.com/job/Bancroft-College-Co-Op-Student-Area-Distribution-Engineering-Technician-4-Months-Winter-2027-Bancroft-ON/1291565647",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "simplify.jobs:https://simplify.jobs/p/de75794d-d7b3-4986-b72f-59bf9ce8daa1/Test-Engineering-Co-op",
+      "key": "www.ziprecruiter.com:https://www.ziprecruiter.com/c/hydro-one-networks/Job/University-Co-Op-Student-Equipment-Engineering-and-Transmission-Asset-Planning-12-Months-Winter-2027/-in-Toronto,ON?jid=d2a2d6c41127f634",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.solidprofessor.com:https://jobs.solidprofessor.com/job/369411/test-engineering-co-op",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/college-co-op-student-area-distribution-engineering-technician-4-months-winter-2027-bowmanville-at-hydro-one-4468714032",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "www.jobillico.com:https://www.jobillico.com/en/job-offer/advanced-micro-devices-inckIvlOh/short-term-2027-firmware-engineering-intern-co-op/17491194",
+      "key": "careers.gevernova.com:https://careers.gevernova.com/ge-vernova-nuclear-engineering-co-op-intern-spring-2027/job/R5048552",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "gevernova.wd5.myworkdayjobs.com:https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-2",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/47oCK04AyuvCbFTRIwzwkMe340dUaTuL6knBPQ1DPpf-Qza8V_nX-w",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
@@ -93,18 +138,18 @@
       "status": "Excluded"
     },
     {
-      "key": "www1.communitech.ca:https://www1.communitech.ca/companies/synaptive-medical/jobs/34051772-ai-co-op",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/indigenous-engineer-intern-co-op-at-ghd-4414750870",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "prosple.com:https://prosple.com/graduate-employers/pg/jobs-internships/engineering-co-op",
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/BoschGroup/744000141338219-2027-spring-mechanical-electrical-engineering-co-op",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f",
       "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/BoschGroup/744000145348319-technical-functions-maintenance-intern-co-op-fall-2026",
-      "change": "Newly found",
       "status": "Needs confirmation"
     }
   ]
