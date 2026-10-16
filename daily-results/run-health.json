@@ -1,10 +1,10 @@
 {
   "planned_queries": 65,
   "attempted_queries": 65,
-  "successful_queries": 44,
-  "access_gaps": 24,
+  "successful_queries": 37,
+  "access_gaps": 30,
   "partial_coverage": true,
-  "unique_hits": 284,
-  "candidate_leads": 77,
-  "elapsed_seconds": 231
+  "unique_hits": 245,
+  "candidate_leads": 52,
+  "elapsed_seconds": 227
 }
