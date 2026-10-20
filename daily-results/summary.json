@@ -1,26 +1,26 @@
 {
-  "checked_on": "2026-10-19",
+  "checked_on": "2026-10-20",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 36,
-    "Excluded": 11,
+    "Needs confirmation": 39,
+    "Excluded": 9,
     "Closed": 0
   },
   "changes": [
-    {
-      "key": "macleanengineering.com:https://macleanengineering.com/job/manufacturing-engineering-co-op-3",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
     {
       "key": "engineeringcareers.utoronto.ca:https://engineeringcareers.utoronto.ca",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "energynews.pro:https://energynews.pro/en/jobs/winter-2027-co-op-engineering-durham-region-ontario-power-generation-18288",
-      "change": "Changed",
+      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/quality-engineering-student-winter-2027-r-166901",
+      "change": "Newly found",
       "status": "Excluded"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4470878947",
+      "change": "Changed",
+      "status": "Needs confirmation"
     },
     {
       "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-co-op-2027-\u2013-automation-engineer-12-months-at-manulife-4473836628",
@@ -28,13 +28,23 @@
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.gevernova.com:https://careers.gevernova.com/ge-vernova-nuclear-ehs-intern-12-month-co-op/job/R5055380",
+      "key": "careers.synopsys.com:https://careers.synopsys.com/job/mississauga/analog-design-internship-summer-2027/44408/102054577920",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-US-Student-Intern,-AI-Engineer-NH/1437758533",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
       "key": "careers.celestica.com:https://careers.celestica.com/job/San-Jose-Student-Intern,-Design-Engineering-CA-95101/1441130333",
-      "change": "Newly found",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Test-Development-ON/1439151233",
+      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
@@ -43,64 +53,69 @@
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-Canada-Student-Intern,-Aerospace-and-Defense-Engineering-Associate-ON/1440660533",
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Materials-Engineering-Lab-ON/1439146033",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01870304/Systems-Engineering-Intern-Summer-2027",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-co-op-student-at-martinrea-international-4384942160?pageNum=0&position=3",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "martinrea.prevueaps.com:https://martinrea.prevueaps.com/jobs/328625.html",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "github.com:https://github.com/Bobwillrule/Canadian-Internship-List",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.ca.talent.com:https://www.ca.talent.com/view?id=f360ce7dfe17",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01870992/Materials-Engineering-Lab-Co-Op-Summer-Fall-2027",
+      "key": "ca.jobrapido.com:https://ca.jobrapido.com/jobpreview/9015777229996556288",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4414750870",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.eluta.ca:https://www.eluta.ca/spl/short-term-2027-hardware-design-verification-engineering-intern-co-op-437c837f78d5006330d68ebb42e2318e",
+      "key": "ca.trabajo.org:https://ca.trabajo.org/job-3804-336a3fb83bbe221a2cff594a877acb6c",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "prosple.com:https://prosple.com/graduate-employers/pg/jobs-internships/engineering-internship-summer-2027",
+      "key": "jobs.nokia.com:https://jobs.nokia.com/en/sites/CX_1/job/40892",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149042859-co-op-winter-2027-systems-engineering-4-8-months",
+      "key": "www.collinsaerospace.com:https://www.collinsaerospace.com/careers",
       "change": "Changed",
-      "status": "Excluded"
+      "status": "Needs confirmation"
     },
     {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000147511629-co-op-winter-2027-software-engineering-4-8-months",
+      "key": "talentegg.ca:https://talentegg.ca/career-guides/engineering",
       "change": "Changed",
-      "status": "Excluded"
+      "status": "Needs confirmation"
     },
     {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149355000-co-op-winter-2027-system-of-systems-engineering-8-16-months",
+      "key": "pg.wd5.myworkdayjobs.com:https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Manufacturing---Engineering-Technical-Co-Op---Jan-2027-Start_R000158865",
       "change": "Changed",
-      "status": "Excluded"
+      "status": "Needs confirmation"
     },
     {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149395679-co-op-winter-2027-system-engineering-tacnet-8-16-months",
+      "key": "cibc.wd3.myworkdayjobs.com:https://cibc.wd3.myworkdayjobs.com/campus",
       "change": "Changed",
-      "status": "Excluded"
+      "status": "Needs confirmation"
     },
     {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149344878-co-op-winter-2027-systems-test-engineering-4-8-months",
+      "key": "hitachi.wd1.myworkdayjobs.com:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Product-HSE-Compliance-Engineering-Intern--Summer-2027--16months-_R0145360",
       "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149100009-co-op-winter-2027-systems-integration-verification-and-validation-8-12-months",
-      "change": "Changed",
-      "status": "Excluded"
+      "status": "Needs confirmation"
     },
     {
       "key": "jobs.lever.co:https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
@@ -108,22 +123,22 @@
       "status": "Excluded"
     },
     {
-      "key": "jobs.lever.co:https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
       "key": "jobs.lever.co:https://jobs.lever.co/nexuse-group/1c99ce4b-dfc4-423d-af93-ef73557baf4d",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.lever.co:https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f",
+      "key": "jobs.lever.co:https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.lever.co:https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20",
+      "key": "jobs.lever.co:https://jobs.lever.co/nexuse-group/be1c82ea-445b-485a-9d07-87e5f41f7af4",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f",
       "change": "Changed",
       "status": "Needs confirmation"
     }
