@@ -1,30 +1,65 @@
 {
-  "checked_on": "2026-10-20",
+  "checked_on": "2026-10-21",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 39,
-    "Excluded": 9,
+    "Needs confirmation": 35,
+    "Excluded": 11,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "engineeringcareers.utoronto.ca:https://engineeringcareers.utoronto.ca",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/mechanical-engineering-student-winter-2027-at-atkinsr\u00e9alis-4480591512",
       "change": "Changed",
-      "status": "Needs confirmation"
+      "status": "Excluded"
     },
     {
-      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/quality-engineering-student-winter-2027-r-166901",
+      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/chemical-engineering-student-winter-2027-r-166903",
       "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4470878947",
+      "key": "cesaroni.net:https://cesaroni.net/aerospace-internship-16-months-summer-2027",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-co-op-2027-\u2013-automation-engineer-12-months-at-manulife-4473836628",
+      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/co-op-winter-2027-system-of-systems-engineering-8-16-months-ottawa-on-ca-ref1405u-opportunity",
       "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/co-op-winter-2027-systems-engineering-4-8-months-ottawa-on-ca-ref1394y-opportunity",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/structural-engineering-intern-at-strik-baldinelli-moniz-ltd-4477845970",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/summer-2027-industrial-manufacturing-internships-at-lactalis-group-4475467150",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/SwhxTD2W3cKHCX8u-CzUZt2qwEAPDiieMI98fDG6YkVs4b6uQFt6PeobjkHGMHoy",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-intern-global-quality-at-celestica-4468032277",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "interfor.com:https://interfor.com/career/maintenance-quality-intern",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-intern-robotic-process-automation-developer-it-at-celestica-4469983390",
+      "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
@@ -33,87 +68,32 @@
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-US-Student-Intern,-AI-Engineer-NH/1437758533",
-      "change": "Changed",
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/student-engineering-co-op-intern-at-atkinsr\u00e9alis-4470650634",
+      "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/San-Jose-Student-Intern,-Design-Engineering-CA-95101/1441130333",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Test-Development-ON/1439151233",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Processes-and-Applications,-Programmer-ON/1446546133",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Materials-Engineering-Lab-ON/1439146033",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-co-op-student-at-martinrea-international-4384942160?pageNum=0&position=3",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "martinrea.prevueaps.com:https://martinrea.prevueaps.com/jobs/328625.html",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "github.com:https://github.com/Bobwillrule/Canadian-Internship-List",
-      "change": "Changed",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/civil-engineering-student-winter-2027-at-atkinsr\u00e9alis-4480589603",
+      "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "www.ca.talent.com:https://www.ca.talent.com/view?id=f360ce7dfe17",
+      "key": "ca.jobrapido.com:https://ca.jobrapido.com/jobpreview/1508877349590925312",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.jobrapido.com:https://ca.jobrapido.com/jobpreview/9015777229996556288",
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/mech-internship-16-months-at-novatrend-engineering-group-ltd-4397913944",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.trabajo.org:https://ca.trabajo.org/job-3804-336a3fb83bbe221a2cff594a877acb6c",
+      "key": "careers.se.com:https://careers.se.com/us-early-careers",
       "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.nokia.com:https://jobs.nokia.com/en/sites/CX_1/job/40892",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.collinsaerospace.com:https://www.collinsaerospace.com/careers",
-      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
       "key": "talentegg.ca:https://talentegg.ca/career-guides/engineering",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "pg.wd5.myworkdayjobs.com:https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Manufacturing---Engineering-Technical-Co-Op---Jan-2027-Start_R000158865",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "cibc.wd3.myworkdayjobs.com:https://cibc.wd3.myworkdayjobs.com/campus",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "hitachi.wd1.myworkdayjobs.com:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Product-HSE-Compliance-Engineering-Intern--Summer-2027--16months-_R0145360",
       "change": "Changed",
       "status": "Needs confirmation"
     },
@@ -128,19 +108,39 @@
       "status": "Needs confirmation"
     },
     {
+      "key": "jobs.lever.co:https://jobs.lever.co/ceso/28200d46-b794-4ce6-a3e5-8a9df8feb622",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
       "key": "jobs.lever.co:https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.lever.co:https://jobs.lever.co/nexuse-group/be1c82ea-445b-485a-9d07-87e5f41f7af4",
+      "key": "jobs.lever.co:https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039/apply",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/hometapjobs/jobs/4927882007",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.lever.co:https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f",
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621740002",
       "change": "Changed",
       "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621763002",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/andurilindustries/jobs/5236563007",
+      "change": "Changed",
+      "status": "Excluded"
     }
   ]
 }
