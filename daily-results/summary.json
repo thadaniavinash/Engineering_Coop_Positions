@@ -1,96 +1,10 @@
 {
-  "checked_on": "2026-10-26",
+  "checked_on": "2026-10-27",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 47,
-    "Excluded": 14,
+    "Needs confirmation": 0,
+    "Excluded": 2,
     "Closed": 0
   },
-  "changes": [
-    {
-      "key": "tmmc.ca:https://tmmc.ca/en/coop-jobs",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4460787017",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-design-services-at-general-dynamics-land-systems\u2013canada-4460573345",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/go/Students-and-Interns/8944801",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/San-Jose-Student-Intern,-Engineering-CA-95101/1446544533",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Test-Development-ON/1439151233",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01877428/Stage-Hiver-2027-Ing\u00e9nierie-de-projet-Internship-Winter-2027-Project-Engineering",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4465337799",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/test-engineering-co-op-at-armstrong-fluid-technology-4467229673",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/IxmPup2yBFzMj8G7a6-NxkewNL69OMueP7SfexBvNAkkDCDmE0DvvEjWEFQL5hk5",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "simplify.jobs:https://simplify.jobs/p/de75794d-d7b3-4986-b72f-59bf9ce8daa1/Test-Engineering-Co-op",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "github.com:https://github.com/Bobwillrule/Canadian-Internship-List",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "careers.stryker.com:https://careers.stryker.com/students-and-graduates",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.internships.com:https://www.internships.com/c/stryker",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "talentegg.ca:https://talentegg.ca/career-guides/engineering",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "prosple.com:https://prosple.com/graduate-employers/efco-forming-shoring-solutions/jobs-internships/engineering-internship-summer-2027",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "hitachi.wd1.myworkdayjobs.com:https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Product-HSE-Compliance-Engineering-Intern--Summer-2027--16months-_R0145360",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    }
-  ]
+  "changes": []
 }
