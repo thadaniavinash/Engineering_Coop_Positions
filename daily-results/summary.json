@@ -1,10 +1,141 @@
 {
-  "checked_on": "2026-10-27",
+  "checked_on": "2026-10-28",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 0,
-    "Excluded": 2,
+    "Needs confirmation": 30,
+    "Excluded": 10,
     "Closed": 0
   },
-  "changes": []
+  "changes": [
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-co-op-2027-\u2013-automation-engineer-12-months-at-manulife-4473836628",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/co-op-winter-2027-system-of-systems-engineering-8-16-months-ottawa-on-ca-ref1405u-opportunity",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "interfor.com:https://interfor.com/career/maintenance-quality-intern",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Quality-Engineering-ON/1445847433",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/San-Jose-Student-Intern,-Engineering-CA-95101/1446544533",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Processes-and-Applications,-Programmer-ON/1446546133",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-US-Student-Intern,-AI-Engineer-NH/1437758533",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.honeywell.com:https://careers.honeywell.com/en/sites/Honeywell/jobs?keyword=interns&mode=location",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/electrical-engineering-co-op-student-water-infrastructures-at-cima+-4469920669",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/CIMA2/744000155627039-industrial-engineering-co-op-",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4414750870",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/lyMzWj5-7PjPYv3hEhn_BsxGQiYOb4_wlFIt5z05cEouCVDXMsx7lW6-F6stvtXn",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/summer-2027-long-term-software-engineering-intern-co-op-at-amd-4459286768",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/short-term-2027-firmware-engineering-intern-co-op-at-amd-4459297377",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/short-term-2027-software-engineering-intern-co-op-at-amd-4459288725",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.georgiancollege.ca:https://www.georgiancollege.ca/employers-partners/honda-of-canada-mfg",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "pg.wd5.myworkdayjobs.com:https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Manufacturing---Engineering-Technical-Co-Op---Jan-2027-Start_R000158865",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "manulife.wd3.myworkdayjobs.com:https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/nexuse-group/1c99ce4b-dfc4-423d-af93-ef73557baf4d",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/andurilindustries/jobs/5236563007",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/vardaspace/jobs/8010167003",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    }
+  ]
 }
