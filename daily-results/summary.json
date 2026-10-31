@@ -1,85 +1,245 @@
 {
-  "checked_on": "2026-10-30",
+  "checked_on": "2026-10-31",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 49,
-    "Excluded": 14,
+    "Needs confirmation": 105,
+    "Excluded": 21,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "www.glencore.com:https://www.glencore.com/en/careers/jobs/09O+-+00260826",
+      "key": "cesaroni.net:https://cesaroni.net/aerospace-internship-16-months-summer-2027",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "energynews.pro:https://energynews.pro/en/jobs/professional-engineering-year-12-16-months-may-2027-bruce-power-17048",
+      "key": "role.com:https://role.com/jobs/student-intern-aerospace-defense-52143861",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/corporate-reliability-engineering-co-op-student-winter-2027-12-month-term-at-irving-consumer-products-4462056920",
+      "key": "careers.celestica.com:https://careers.celestica.com/go/Students-and-Interns/8944801",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Quality-Engineering-ON/1445847433",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/San-Jose-Student-Intern,-Engineering-CA-95101/1446544533",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-US-Student-Intern,-AI-Engineer-NH/1437758533",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-Canada-Student-Intern,-Aerospace-and-Defense-Engineering-Associate-ON/1440660533",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.honeywell.com:https://careers.honeywell.com/en/sites/Honeywell/jobs?keyword=interns&mode=location",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.honeywell.com:https://careers.honeywell.com/en/sites/Honeywell/jobs?keyword=Intern&mode=location",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.nokia.com:https://jobs.nokia.com/en/sites/CX_1/job/41168",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/e_4bXVAUmoUyZm8dbJmWIgCh51teKnnBcnn7i164wh2cGP2j8CQAI4aJIJRD5NIA",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.glassdoor.ca:https://www.glassdoor.ca/Jobs/Linamar-Engineering-internship-Jobs-EI_IE6979.0,7_KO8,30.htm",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.husco.com:https://careers.husco.com/early-talent",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.metaintro.com:https://www.metaintro.com/job/plc-co-op-student-winter-2027-at-johnson-electric-15fe801c-5fe5-5382-8175-dbf32ee8bee1",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "martinrea.prevueaps.com:https://martinrea.prevueaps.com/jobs/328625.html",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/_wvxyMZply3bgCvFzZJvhhkRnSb2usChoWRliPnmZC4L5Q71TX9vlHnmRw0yf8zU",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "fr.simplyhired.ca:https://fr.simplyhired.ca/job/TKrG3YNEIzMuga4KDrxJ0qz-3vw-WpXIUGS5-8x3rC23Su__EpIwkQ",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.eluta.ca:https://www.eluta.ca/spl/engineering-intern-9dc0e6039fbd35f30f28aad4710c2462",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/JRd7mso4LsLzZSbWwkbqojI2xJfv0kt5wUpyfHG1x7LqD6BtawamHQ",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/KUuTp7_hq7-NSmW9r_pOfczR7uMoCdAUQuim_vO3TkcSqOrz0vQVHw",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/electrical-engineering-co-op-waterdown-can-at-l3harris-technologies-4466482952",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/l3harris-technologies-canada/jobs-internships/manufacturing-engineering-intern-service-co-op",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/Y-tJ8FaqeyxqI4qnoaaGQ4jw9vfS-88ArEUSi7lYePYtqfYkw99Sy2_eLu8OL99c",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-student-mechanical-winter-2027-4-12-months-at-mda-space-4485111576",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-student-systems-design-winter-2027-at-mda-space-4479395268",
       "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/internship-technical-program-manager-cell-manufacturing-winter-spring-2027-at-tesla-4458258327",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/summer-2027-nuclear-technician-internship-ontario-ny-associate-s-degree-only-at-constellation-4467113432",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01878937/Manufacturing-Engineering-Co-Op-Spring-2027-Onsite",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01884010/Manufacturing-Engineering-Ops-Co-Op-Spring-Summer-2027",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "nuclearjobscanada.ca:https://nuclearjobscanada.ca/jobs/775990653-drafting-co-op-student-summer-2027",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/co-op-student-electrical-engineering-at-wsp-in-canada-4480684994",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/hrzhTMtjs6wMK8IZyf0p6M6273k6UB5I317pcGw82eOZQLnj0ElRrg",
+      "key": "spacecrew.com:https://spacecrew.com/space-jobs/mu81nf93-mda-engineering-student-mechanical-design-winter-2027",
       "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "emit.fa.ca3.oraclecloud.com:https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97343",
+      "key": "jobright.ai:https://jobright.ai/jobs/info/6a95b345c8763a3a87ffb83a",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "internscout.org:https://internscout.org/internships/engineering/ontario",
+      "key": "jobright.ai:https://jobright.ai/jobs/info/6aa8cf5710b1cd4f41604185",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.bwxt.com:https://careers.bwxt.com/go/Recent-Grad-and-Student-Jobs/3930400",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/civil-engineering-student-winter-2027-r-166899",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/civil-engineering-co-op-student-winter-2027-at-atkinsr\u00e9alis-4477835963",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/student-engineering-co-op-intern-at-atkinsr\u00e9alis-4470650634",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/VZ0FtzLSNhwjSX9gQezGiqTcoAbdvvTWZM4FnaA-y1kUA1MzfTzIuA",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4480585987",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "rsmin.ca:https://rsmin.ca/wp-content/uploads/2024/05/Co-Op-Job-Postings.pdf",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "eaton.eightfold.ai:https://eaton.eightfold.ai/careers/job/687239312162?domain=eaton.com",
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4466327247",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/7kvSuRWvBJC1Yng7U1cgthIyazT7JfRDhxvnpfMGYfUD4MeVTp5ETJBVfyktP67x",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-univ-co-op-tech-chemical-engineering-at-framatome-4466317401",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-univ-co-op-tech-electrical-engineering-at-framatome-4466325238",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/dfeyV5q0UVNktZLduavZ5xVwVLE91FAKkpFnx5Kklfdg5CQZ__dvtdw_n0EsWdZW",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "stantec.jobs:https://stantec.jobs/locations/can/campaigns/internship-co-op-student/jobs",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "employmenthero.com:https://employmenthero.com/en-ca/jobs/position/cb-geotechnical-engineering-co-op-student-intern-summer-2027-4-18-month-term-tccak",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/dillon-consulting-civil-engineering-intern-at-dillon-consulting-limited-4369717024?pageNum=0&position=1",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.nexxt.com:https://www.nexxt.com/jobs/dillon-consulting-engineering-co-op-kingston-on-ca-2988563143-job.html",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
       "key": "eaton.eightfold.ai:https://eaton.eightfold.ai/careers/job/687239184994?domain=eaton.com",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/early-career-development-program-at-eaton-4472928804",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "prosple.com:https://prosple.com/graduate-employers/abb/jobs-internships/systems-engineering-co-op-spring-2027",
-      "change": "Newly found",
+      "key": "careers.se.com:https://careers.se.com/us-early-careers",
+      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
@@ -88,8 +248,8 @@
       "status": "Needs confirmation"
     },
     {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4460078423",
-      "change": "Changed",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/2027-energy-engineering-intern-at-trane-technologies-4460078423",
+      "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
@@ -103,18 +263,93 @@
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.tranetechnologies.com:https://careers.tranetechnologies.com/global/en/co-ops",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ciena.wd5.myworkdayjobs.com:https://ciena.wd5.myworkdayjobs.com/Careers",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
+      "key": "rolesweep.com:https://rolesweep.com/jobs/95e9fbe731856d3065565d4f9f351e8c-2027-engineering-intern",
       "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "fr.workopolis.com:https://fr.workopolis.com/jobsearch/viewjob/75IPUpV6GUhuzhwqhAUF5eGGy_HdkH8-Z3ik6V580Bkb1-AlP072Z5nE-t_TRNKl",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.eluta.ca:https://www.eluta.ca/spl/manufacturing-engineering-co-op-43738f81d0191c990b9cd6fcc238b9ae",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "fr.glassdoor.ca:https://fr.glassdoor.ca/job-listing/manufacturing-engineering-co-op-maclean-engineering-JV_IC2285510_KO0,31_KE32,51.htm?jl=1010260346151",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.metaintro.com:https://www.metaintro.com/job/pepsico-canada-hq-supply-chain-winter-2027-co-op-at-pepsico-d1f95245-82a7-55a5-b46f-d985f97021dc",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "careers.skyworksinc.com:https://careers.skyworksinc.com/job/RF-Test-Automation-Co-Op-(Jan-Dec-2027)/78428-en_US",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/test-engineering-co-op-may-2027-april-2028-at-skyworks-solutions-inc-4461516747",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/rfic-co-op-jan-dec-2027-at-skyworks-solutions-inc-4470202998",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/i1vKUyjyeDUj2CPEMlOd6aUw3uCW3fJfXfzh3kSBPZwOiqRHgzhMpc7FAijgTTHG",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/J7M42eOUEzPEk_vTfws9qq_LeIV856jNfyhj0c5P43LhyVMm6rITxDK_ZGkANadE",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "fr.simplyhired.ca:https://fr.simplyhired.ca/job/0dA8G5pSHQdpabDMawv7hnP06QOfd5lw_rS66RbC24AQbvJ9bf8w7A",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "maplestack.ca:https://maplestack.ca/jobs/ellisdon-com/ellisdon-ignited-student-rotation-program-summer-2027-12-months",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "role.com:https://role.com/jobs/ellisdon-ignited-student-rotation-program-summer-2027-12-months-51293308",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.pcl.com:https://careers.pcl.com/job/Oakville-Engineering-Student-ON/1426840300",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4465329503",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-student-at-pcl-construction-4462464876",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4414750870",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/lyMzWj5-7PjPYv3hEhn_BsxGQiYOb4_wlFIt5z05cEouCVDXMsx7lW6-F6stvtXn",
+      "change": "Changed",
       "status": "Needs confirmation"
     }
   ]
