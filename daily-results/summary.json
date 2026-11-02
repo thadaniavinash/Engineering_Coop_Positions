@@ -1,116 +1,156 @@
 {
-  "checked_on": "2026-11-01",
+  "checked_on": "2026-11-02",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 31,
-    "Excluded": 14,
+    "Needs confirmation": 40,
+    "Excluded": 23,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "engineeringcareers.utoronto.ca:https://engineeringcareers.utoronto.ca",
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/o_sJSdqMtcXTqr2wZO-7H-MCd2dfnGlvciKWf46Zp5zwC3W11YRO3g",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/summer-2027-industrial-manufacturing-internships-at-lactalis-canada-4476788743",
+      "key": "nuclearjobscanada.ca:https://nuclearjobscanada.ca/jobs/co-op-student",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-Canada-Student-Intern,-HealthTech-Engineering-Associate-ON/1440256733",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01884278/Mechanical-Engineer-Intern-Summer-2027",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.honeywell.com:https://careers.honeywell.com/en/sites/Honeywell/jobs?keyword=interns&mode=location",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.honeywell.com:https://careers.honeywell.com/en/sites/Honeywell/jobs?keyword=Intern&mode=location",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "maplestack.ca:https://maplestack.ca/jobs/ellisdon-com/ellisdon-ignited-student-rotation-program-summer-2027-12-months",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.amd.com:https://careers.amd.com/students/jobs/91360?lang=en-us",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/summer-2027-long-term-software-engineering-intern-co-op-at-amd-4459286768",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/corporate-reliability-engineering-co-op-student-winter-2027-12-month-term-at-irving-consumer-products-4462056920",
       "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/short-term-2027-graphics-software-engineering-intern-co-op-at-amd-4459279819",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "hitmarker.net:https://hitmarker.net/jobs/amd-summer-2027-long-term-software-engineering-intern-co-op-4670023",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/amd-canada/jobs-internships/long-term-software-engineering-summer-internco-op",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "hitmarker.net:https://hitmarker.net/jobs/amd-short-term-2027-firmware-engineering-intern-co-op-4670019",
+      "key": "jobs.thermofisher.com:https://jobs.thermofisher.com/global/en/job/R-01366617/Reliability-Engineering-Co-Op",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-2027-piping-engineering-co-op-high-pressure-metallurgy-at-hatch-4463577186",
+      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/co-op-winter-2027-system-of-systems-engineering-8-16-months-ottawa-on-ca-ref1405u-opportunity",
       "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4463879949",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "usemimi.com:https://usemimi.com/jobs/civil-engineering-co-op-at-hatch-at-hatch-mooet53x",
+      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/moderna-canada/jobs-internships/intern-quality-assurance",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/marvell-technology-canada/jobs-internships/data-center-silicon-hardware-engineering-intern-bs-2027-co-op",
+      "key": "interfor.com:https://interfor.com/career/maintenance-quality-intern",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-intern-quality-administration-training-at-celestica-4474656757",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "prosple.com:https://prosple.com/graduate-employers/pg/jobs-internships/engineering-internship-summer-2027",
+      "key": "jobs.autodesk.com:https://jobs.autodesk.com/careers/job/1443153772173-software-development-internship-summer-2027--amer-canada-ontario-toronto-university-ave?domain=autodesk.com",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "canada.aecom.jobs:https://canada.aecom.jobs/saskatoon-sk/indigenous-engineering-intern/350B0487B2954C829A559D819F21F2DE/job",
       "change": "Changed",
       "status": "Needs confirmation"
+    },
+    {
+      "key": "www.honda.ca:https://www.honda.ca//careers",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "stantec.jobs:https://stantec.jobs/locations/ontario/campaigns/internship-co-op-student/jobs",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.zestamigo.com:https://www.zestamigo.com/jobs/engineering-student-mechanical-winter-2027-4-12-months-at-mda-space-498f9612-5faf-4baa-9b75-caa6e5eb0e25",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-student-software-winter-2027-12-16-months-at-mda-space-4473398401",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "pg.wd5.myworkdayjobs.com:https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Manufacturing---Engineering-Technical-Co-Op---Jan-2027-Start_R000158865",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "brucepower.wd3.myworkdayjobs.com:https://brucepower.wd3.myworkdayjobs.com/en-US/BrucePower/job/Professional-Engineering-Year--12-16-Months---May-2027-_10013900",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "smucker.wd5.myworkdayjobs.com:https://smucker.wd5.myworkdayjobs.com/en-US/US_External_Careers/job/R-D-Engineering-Intern--Co-Op-2027--8-months-_115696",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "hitachi.wd1.myworkdayjobs.com:https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electro-Mechanical-Engineering-Intern--Fall-2026--16-months-_R0139829/apply?bid=0&tid=x_64d37e70-e995-4074-93b1-c82519c6ac9a",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ciena.wd5.myworkdayjobs.com:https://ciena.wd5.myworkdayjobs.com/Careers",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "sunlife.wd3.myworkdayjobs.com:https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1",
+      "change": "Changed",
+      "status": "Excluded"
     },
     {
       "key": "jobs.lever.co:https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52",
-      "change": "Newly found",
+      "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006",
+      "key": "jobs.lever.co:https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/nexuse-group/1c99ce4b-dfc4-423d-af93-ef73557baf4d",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lever.co:https://jobs.lever.co/lochgroup/c5b57a93-743c-4838-a973-1affbcda7e82",
       "change": "Newly found",
       "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8616338002",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8621763002",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/andurilindustries/jobs/5236563007",
+      "change": "Changed",
+      "status": "Excluded"
     }
   ]
 }
