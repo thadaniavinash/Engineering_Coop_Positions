@@ -1,86 +1,141 @@
 {
-  "checked_on": "2026-11-03",
+  "checked_on": "2026-11-04",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 45,
-    "Excluded": 9,
+    "Needs confirmation": 33,
+    "Excluded": 13,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "hdr.referrals.selectminds.com:https://hdr.referrals.selectminds.com/jobs/mechanical-co-op-winter-2027-46081",
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/o_sJSdqMtcXTqr2wZO-7H-MCd2dfnGlvciKWf46Zp5zwC3W11YRO3g",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/chemical-engineering-student-winter-2027-r-166903",
       "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "engineeringcareers.utoronto.ca:https://engineeringcareers.utoronto.ca",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-co-op-2027-\u2013-automation-engineer-12-months-at-manulife-4473836628",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.stryker.com:https://careers.stryker.com/students-and-graduates",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/student-intern-robotic-process-automation-developer-it-at-celestica-4469983390",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/go/Students-and-Interns/8944801",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Aerospace-and-Defense,-Material-Pricing-and-Product-Data-ON/1452685833",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.bwxt.com:https://careers.bwxt.com/go/Recent-Grad-and-Student-Jobs/3930400",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/civil-engineering-student-winter-2027-r-166899",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/assembly-test-co-op-student-winter-2027-r-167215",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/electronic-reliability-engineer-co-op-winter-2027-at-ciena-4483813654",
       "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-univ-co-op-tech-mechanical-engineering-at-framatome-4466324258",
+      "key": "jobs.thermofisher.com:https://jobs.thermofisher.com/global/en/job/R-01366617/Reliability-Engineering-Co-Op",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-univ-co-op-tech-chemical-engineering-at-framatome-4466317401",
+      "key": "gdmissionsystems.ca:https://gdmissionsystems.ca/careers/co-op-winter-2027-system-of-systems-engineering-8-16-months-ottawa-on-ca-ref1405u-opportunity",
       "change": "Changed",
-      "status": "Needs confirmation"
+      "status": "Excluded"
     },
     {
-      "key": "stantec.jobs:https://stantec.jobs/locations/ontario/campaigns/internship-co-op-student/jobs",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "employmenthero.com:https://employmenthero.com/en-ca/jobs/position/cb-geotechnical-engineering-co-op-student-intern-summer-2027-4-18-month-term-oketq",
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Remote-Employee-Canada-Student-Intern,-Industrial-Engineering-Associate-ON/1452651333",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "www.glassdoor.ca:https://www.glassdoor.ca/job-listing/mechanical-engineering-student-mcw-group-of-companies-JV_IC2281069_KO0,30_KE31,53.htm?jl=1009842268328",
+      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01867428/Electrical-Engineering-Intern-Summer-2027",
       "change": "Newly found",
       "status": "Needs confirmation"
+    },
+    {
+      "key": "canada.aecom.jobs:https://canada.aecom.jobs/saskatoon-sk/indigenous-engineering-intern/350B0487B2954C829A559D819F21F2DE/job",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "eaton.eightfold.ai:https://eaton.eightfold.ai/careers/job/687239184994?domain=eaton.com",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/w78Dgh-esvdSxrCAuB9UaSOAcxWOltqWdCSnrPfU_Zqf99YPI2immT7m41tN1Umi",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "prosple.com:https://prosple.com/graduate-employers/trane-technologies/jobs-internships/2027-engineering-intern",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.workopolis.com:https://www.workopolis.com/jobsearch/viewjob/IxmPup2yBFzMj8G7a6-NxkewNL69OMueP7SfexBvNAkkDCDmE0DvvEjWEFQL5hk5",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/test-engineering-co-op-at-armstrong-fluid-technology-4467229673",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "simplify.jobs:https://simplify.jobs/p/de75794d-d7b3-4986-b72f-59bf9ce8daa1/Test-Engineering-Co-op",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "github.com:https://github.com/Bobwillrule/Canadian-Internship-List",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/r-d-engineering-co-op-at-stryker-4445797083?pageNum=0&position=1",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/CYrJ8s-vyiEgsK_swjieCS6IetiuEYC24H44twwiORumEMV9NnV5eQ",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.inovait.ca:https://jobs.inovait.ca/companies/synaptive-medical/jobs/71071971-production-operations-co-op",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www1.communitech.ca:https://www1.communitech.ca/companies/synaptive-medical/jobs/34051772-ai-co-op",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.eluta.ca:https://www.eluta.ca/spl/water-and-wastewater-process-engineer-co-op-position-45cf18df5de1eec23db638f74bd55e71",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149355000-co-op-winter-2027-system-of-systems-engineering-8-16-months",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149042859-co-op-winter-2027-systems-engineering-4-8-months",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149344878-co-op-winter-2027-systems-test-engineering-4-8-months",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000147511629-co-op-winter-2027-software-engineering-4-8-months",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149100009-co-op-winter-2027-systems-integration-verification-and-validation-8-12-months",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/GDMSI/744000149339552-co-op-winter-2027-project-engineer-8-to-12-months",
+      "change": "Changed",
+      "status": "Excluded"
     }
   ]
 }
