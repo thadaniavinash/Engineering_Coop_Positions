@@ -1,54 +1,34 @@
 {
-  "checked_on": "2026-11-19",
+  "checked_on": "2026-11-20",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 53,
-    "Excluded": 28,
+    "Needs confirmation": 89,
+    "Excluded": 29,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-student-mechanical-winter-2027-4-12-months-at-mda-space-4485111576",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/mechanical-engineering-student-winter-2027-r-166900",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.techstars.com:https://jobs.techstars.com/companies/trexo-robotics/jobs/92964794-mechatronics-intern-co-op-winter-2027",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "www.glencore.com:https://www.glencore.com/en/careers/jobs/09O+-+00260826",
-      "change": "Changed",
+      "key": "interninsider.me:https://interninsider.me/internships/fields/civil-engineering/ontario/term/summer-2027",
+      "change": "Newly found",
       "status": "Needs confirmation"
+    },
+    {
+      "key": "www.rjc.ca:https://www.rjc.ca/people/careers/current-opportunities/680-building-science-and-restoration-co-op-january-2027.html",
+      "change": "Newly found",
+      "status": "Excluded"
     },
     {
       "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/manufacturing-engineering-technical-co-op-may-2027-start-at-procter-gamble-4463068958",
-      "change": "Newly found",
+      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.lincolnelectric.com:https://jobs.lincolnelectric.com/job/Toronto-Engineering-Spring-2027-Internship-(Toronto,-Canada)-ON-M4G-2B9/1458043333",
-      "change": "Newly found",
+      "key": "macleanengineering.com:https://macleanengineering.com/job/manufacturing-engineering-co-op-3",
+      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
       "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/cloud-devops-engineer-co-op-may-2027-12-16-months-at-vena-solutions-4470456307",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "cesaroni.net:https://cesaroni.net/aerospace-internship-16-months-summer-2027",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "interninsider.me:https://interninsider.me/internships/fields/aerospace-engineering/ontario/term/winter-2027",
       "change": "Changed",
       "status": "Excluded"
     },
@@ -68,18 +48,33 @@
       "status": "Excluded"
     },
     {
-      "key": "www.gd.com:https://www.gd.com/careers/co-op-winter-2027-devops-engineering-8-16-months-ottawa-on-ca-ref1409n-gdms-opportunity",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
       "key": "www.gd.com:https://www.gd.com/careers/co-op-winter-2027-system-of-systems-engineering-8-16-months-ottawa-on-ca-ref1405u-gdms-opportunity",
       "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "jobs.arup.com:https://jobs.arup.com/jobs/bridges-civil-structures-engineering-intern-may-2027-may-2028-37460",
+      "key": "www.gd.com:https://www.gd.com/careers/co-op-winter-2027-devops-engineering-8-16-months-ottawa-on-ca-ref1409n-gdms-opportunity",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "interninsider.me:https://interninsider.me/internships/fields/electrical-engineering/ontario/term/summer-2027",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.arup.com:https://jobs.arup.com/jobs/electrical-engineering-intern-may-2026-may-2027-31340",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "hitachi.wd1.myworkdayjobs.com:https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359",
       "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.arup.com:https://jobs.arup.com/jobs/bridges-civil-structures-engineering-intern-may-2027-may-2028-37460",
+      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
@@ -88,18 +83,38 @@
       "status": "Needs confirmation"
     },
     {
-      "key": "bebee.com:https://bebee.com/ca/jobs/bridges-civil-structures-engineering-intern-may-2027-may-2028-arup-toronto--fj-2472474691",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/process-engineering-intern-dry-process-summer-2027-at-ttm-technologies-4488020570",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "prosple.com:https://prosple.com/graduate-employers/pg/jobs-internships/manufacturing-internship-summer",
+      "key": "www.simplyhired.ca:https://www.simplyhired.ca/job/QrfR1-0ukWctf3-btMyZuce61fGJdj1DYbVe__bfXlP_ANl-QDB5Dw",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.lincolnelectric.com:https://jobs.lincolnelectric.com/job/Hamilton-Software-Engineering-Spring-2027-Internship-(Remote-Canada)-ON-L9H-7L8/1458131633",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "cesaroni.net:https://cesaroni.net/aerospace-internship-16-months-summer-2027",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "role.com:https://role.com/jobs/quality-assurance-specialist-intern-android-may-2027-12-months-54958070",
-      "change": "Newly found",
+      "key": "www.internships.com:https://www.internships.com/browse/biomedical-engineering",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "interninsider.me:https://interninsider.me/internships/fields/biomedical-engineering/term/summer-2027",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.stryker.com:https://careers.stryker.com/students-and-graduates",
+      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
@@ -108,137 +123,212 @@
       "status": "Needs confirmation"
     },
     {
-      "key": "interninsider.me:https://interninsider.me/internships/fields/electrical-engineering/ontario/term/summer-2027",
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Materials-Engineering-Lab-ON/1439146033",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.lincolnelectric.com:https://jobs.lincolnelectric.com/job/Hamilton-Software-Engineering-Spring-2027-Internship-(Remote-Canada)-ON-L9H-7L8/1458131633",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "careers.honeywell.com:https://careers.honeywell.com/en/sites/CX_1/job/160493",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.amd.com:https://careers.amd.com/careers-home/jobs/90379?lang=en-us",
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Processes-and-Applications,-Programmer-ON/1446546133",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/short-term-2027-hardware-design-engineering-intern-co-op-at-amd-4459289740",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/summer-2027-long-term-hardware-design-engineering-intern-co-op-at-amd-4459289738",
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Newmarket-Student-Intern,-Test-Development-ON/1439151233",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "prosple.com:https://prosple.com/graduate-employers/amd-canada/jobs-internships/short-term-firmware-engineering-internco-op",
+      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Analytics-Centre-of-Excellence-ON/1456506333",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "earlyvia.com:https://earlyvia.com/amd/short-term-2027-graphics-software-engineering-internco-op-28521684",
+      "key": "careers.rtx.com:https://careers.rtx.com/global/en/job/01878570/Operations-Engineering-Intern-Summer-2027",
       "change": "Newly found",
-      "status": "Excluded"
+      "status": "Needs confirmation"
     },
     {
-      "key": "earlyvia.com:https://earlyvia.com/amd/short-term-2027-software-engineering-internco-op-3a9957c6",
+      "key": "www.pgcareers.com:https://www.pgcareers.com/global/en/job/R000157846/Research-Development-Scientist-Engineer-Intern-Summer-2027-Freshmen-Sophomores-and-Juniors",
       "change": "Newly found",
-      "status": "Excluded"
+      "status": "Needs confirmation"
     },
     {
-      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/geotab-canada/jobs-internships/vehicle-systems-engineering-intern-winterjanuary-2027-4-8-months",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4463879949",
+      "key": "interninsider.me:https://interninsider.me/internships/magna-international/engineering-co-op-student-f7da3412-33e7-401a-a352-c99aa6abfdf4",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-2027-piping-engineering-co-op-high-pressure-metallurgy-at-hatch-4463577186",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "rocketlabcorp.com:https://rocketlabcorp.com/careers/positions/quality-engineering-intern-spring-2027-toronto-can-8205829003",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "spacecrew.com:https://spacecrew.com/space-jobs/mwlshgpy-rocket-lab-quality-engineering-intern-spring-2027",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "spacejobs.astrotalent.com:https://spacejobs.astrotalent.com/jobs/rocket-lab-mechanical-engineering-intern-summer-2027-380621",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "search-careers.gm.com:https://search-careers.gm.com/en/jobs/jr-202624328/2027-winter-co-op-data-engineering-software-developer",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/engineering-co-op-student-winter-2027-at-aspire-bakeries-4490987566",
-      "change": "Newly found",
-      "status": "Excluded"
-    },
-    {
-      "key": "interninsider.me:https://interninsider.me/internships/linamar-corporation/engineering-co-op-c0c677dc-9ed1-447f-b85f-4d46fe4757d3",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.schaeffler.com:https://jobs.schaeffler.com/job/Wooster,-OH-Co-op-Engineering-Spring-2027-Battery-Plant-OH-44691/1458554133",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "interninsider.me:https://interninsider.me/internships/schaeffler/co-op-mechanical-engineering-summer-2027-ce89a87c-2b61-4f4a-b69a-356482bf866f",
+      "key": "jobs.lincolnelectric.com:https://jobs.lincolnelectric.com/job/Toronto-Engineering-Spring-2027-Internship-(Toronto,-Canada)-ON-M4G-2B9/1458043333",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.schaeffler.com:https://jobs.schaeffler.com/job/Wooster,-OH-Co-Op-Engineering-Spring-2027-OH-44691/1434156633?locale=en_US",
+      "key": "interninsider.me:https://interninsider.me/internships/roles/software-engineering/canada/term/winter-2027",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/it-operations-co-op-student-at-stackteck-systems-ltd-4371410270?pageNum=0&position=25",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.jobrapido.com:https://ca.jobrapido.com/jobpreview/9012139670795976704",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/reliability-test-automation-engineer-co-op-intern-at-lumentum-4470878947",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "prosple.com:https://prosple.com/graduate-employers/schaeffler/jobs-internships/co-op-mechanical-engineering-summer-2027",
-      "change": "Newly found",
+      "key": "jobs.insightpartners.com:https://jobs.insightpartners.com/companies/litmus-automation/jobs/99574327-industrial-engineering-intern-summer-2027",
+      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobright.ai:https://jobright.ai/jobs/info/6a9b662a90a313642c659f64",
-      "change": "Newly found",
+      "key": "seedtable.com:https://seedtable.com/jobs/296281",
+      "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/process-engineering-co-op-student-8-months-at-martinrea-international-4487682433",
+      "key": "careers.l3harris.com:https://careers.l3harris.com/en/job/waterdown/mechanical-engineering-co-op-waterdown-can/4832/100667892592",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.l3harris.com:https://careers.l3harris.com/en/job/waterdown/manufacturing-engineering-mechanical-co-op/4832/100741476912",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/mechanical-engineering-co-op-waterdown-can-at-l3harris-technologies-4470918835",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.bombardier.com:https://jobs.bombardier.com/job/Intern,-Plant-Engineering-Projects-(Summer-2027)/16393-en_US",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobs.bombardier.com:https://jobs.bombardier.com/job/Intern,-Developer-(Winter-2027)/15658-en_US",
+      "change": "Newly found",
+      "status": "Excluded"
+    },
+    {
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-project-engineering-new-development-winter-2027-at-bombardier-4474376357",
       "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "ca.talent.com:https://ca.talent.com/view?id=645107447576793128",
+      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/intern-plant-engineering-projects-summer-2027-at-bombardier-4489684616",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careerservices.nsu.edu:https://careerservices.nsu.edu/jobs/safran-electrical-power-engineering-co-op-spring-2027",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "connections.villanova.edu:https://connections.villanova.edu/jobs/safran-electrical-power-engineering-co-op-spring-2027",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.amherst.edu:https://careers.amherst.edu/jobs/safran-electrical-power-engineering-co-op-spring-2027",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.bloch.umkc.edu:https://careers.bloch.umkc.edu/jobs/safran-electrical-power-engineering-co-op-spring-2027",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.internships.com:https://www.internships.com/c/collins-aerospace",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.collinsaerospace.com:https://www.collinsaerospace.com/careers",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.internships.com:https://www.internships.com/posting/mechanical-engineering-co-op-winter-spring-2027-collins-aerospace-1130151905",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/co-op-systems-engineering-co-op-summer-fall-2027-onsite-at-collins-aerospace-4482073706",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.bwxt.com:https://careers.bwxt.com/job/Erwin-Intern-Engineering-(Summer-2027)-TN/1425939400",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobright.ai:https://jobright.ai/jobs/info/6a95b345c8763a3a87ffb83a",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "jobright.ai:https://jobright.ai/jobs/info/6aa8cf5710b1cd4f41604185",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.bwxt.com:https://careers.bwxt.com/go/Recent-Grad-and-Student-Jobs/3930400",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/assembly-test-co-op-student-winter-2027-r-167215",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.metaintro.com:https://www.metaintro.com/job/cost-controls-student-winter-2027-at-atkinsrealis-987514aa-46ab-5c9b-a6a4-9c9135ed0aa5",
       "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "www.eluta.ca:https://www.eluta.ca/spl/engineering-inspector-co-op-student-8-months-0410d17ef4b17a5f262c44f5894437c8",
+      "key": "slihrms.wd3.myworkdayjobs.com:https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/Project-Controls-Student---Winter-2027_R-166902",
+      "change": "Changed",
+      "status": "Excluded"
+    },
+    {
+      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/spring-2027-co-op-univ-co-op-technical-co-op-electrical-mechanical-engineer-at-framatome-north-america-4465378493",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "www.eluta.ca:https://www.eluta.ca/spl/engineering-inspector-co-op-student-4-months-c00f35208ac4be8e2f2fcbd68f6bceff",
       "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "www.eluta.ca:https://www.eluta.ca/spl/capital-engineering-&-construction-services-co-op-student-df2c2e09e30948786348b92e68ecfe24",
+      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/amd-canada/jobs-internships/short-term-firmware-engineering-internco-op",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "prosple.com:https://prosple.com/graduate-employers/pg/jobs-internships/engineering-internship-summer-2027",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "prosple.com:https://prosple.com/graduate-employers/raytheon-technologies/jobs-internships/mechanical-engineering-intern-hot-section-engineering-summer-2027onsite",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "uk.prosple.com:https://uk.prosple.com/graduate-employers/google-uk/jobs-internships/forward-deployed-engineering-intern-bsms-2027",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
@@ -253,18 +343,28 @@
       "status": "Needs confirmation"
     },
     {
+      "key": "interninsider.me:https://interninsider.me/internships/fittes/mechanical-engineering-co-op-a62db052-9bef-4848-84d6-4c30a970e270",
+      "change": "Changed",
+      "status": "Needs confirmation"
+    },
+    {
+      "key": "interninsider.me:https://interninsider.me/internships/fields/mechanical-engineering/georgetown-ontario/term/summer-2027",
+      "change": "Newly found",
+      "status": "Needs confirmation"
+    },
+    {
       "key": "interninsider.me:https://interninsider.me/internships/iko-north-america/corporate-process-engineering-co-op-1da5a6db-1a88-43f8-a603-63f9aba08908",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "interninsider.me:https://interninsider.me/internships/fields/computer-engineering/canada/term/summer-2027",
+      "key": "interninsider.me:https://interninsider.me/internships/fields/computer-engineering/toronto-ontario/term/summer-2027",
       "change": "Changed",
       "status": "Excluded"
     },
     {
-      "key": "interninsider.me:https://interninsider.me/internships/roles/software-engineering/canada/term/summer-2027",
-      "change": "Newly found",
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
+      "change": "Changed",
       "status": "Excluded"
     }
   ]
