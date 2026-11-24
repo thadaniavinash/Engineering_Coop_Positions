@@ -1,195 +1,40 @@
 {
-  "checked_on": "2026-11-23",
+  "checked_on": "2026-11-24",
   "counts": {
     "Verified match": 0,
-    "Needs confirmation": 65,
-    "Excluded": 31,
+    "Needs confirmation": 7,
+    "Excluded": 1,
     "Closed": 0
   },
   "changes": [
     {
-      "key": "interninsider.me:https://interninsider.me/internships/fields/electrical-engineering/canada/term/summer-2027",
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "interninsider.me:https://interninsider.me/internships/roles/electrical-engineering/ontario/term/summer-2027",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "interninsider.me:https://interninsider.me/internships/fields/mechanical-engineering/ontario/term/spring-2027",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.atkinsrealis.com:https://careers.atkinsrealis.com/en/jobs/civil-engineering-student-winter-2027-r-166899",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "admitline.ca:https://admitline.ca/majors/biomedical-engineering/co-op",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/electronic-reliability-engineer-co-op-winter-2027-at-ciena-4483813654",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "www.opentalent.in:https://www.opentalent.in/jobs/corporate-reliability-engineering-co-op-student-winter-2027-12-month-term-jdi",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "aviyond.com:https://aviyond.com/jobs/intern-bachelors-mech-eng-4",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/bridges-civil-structures-engineering-intern-may-2027-may-2028-at-arup-4489761050",
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/spacex/jobs/8616338002",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "arupjobs.referrals.selectminds.com:https://arupjobs.referrals.selectminds.com/jobs/bridges-civil-structures-engineering-intern-may-2027-may-2028-37461",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/operations-engineering-intern-summer-2027-at-ttm-technologies-4488024772",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "prosple.com:https://prosple.com/graduate-employers/pg/jobs-internships/manufacturing-internship-summer",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "interninsider.me:https://interninsider.me/internships/fields/biomedical-engineering/term/summer-2027",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.internships.com:https://www.internships.com/browse/biomedical-engineering",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.constellationenergy.com:https://jobs.constellationenergy.com/internships/jobs/139260?lang=en-us",
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/xai/jobs/5255111007",
       "change": "Newly found",
       "status": "Excluded"
     },
     {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/summer-2027-design-engineering-internship-ontario-ny-at-constellation-4464973666",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "trimble.wd1.myworkdayjobs.com:https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Automated-Test-Engineering-Intern--16-Month-Internship-_R58004",
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/muonspace/jobs/5255112007",
       "change": "Newly found",
       "status": "Needs confirmation"
     },
     {
-      "key": "jobs.lincolnelectric.com:https://jobs.lincolnelectric.com/job/Hamilton-Software-Engineering-Spring-2027-Internship-(Remote-Canada)-ON-L9H-7L8/1458131633",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "careers.celestica.com:https://careers.celestica.com/go/Students-and-Interns/8944801",
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/vardaspace/jobs/8010167003",
       "change": "Changed",
       "status": "Needs confirmation"
     },
     {
-      "key": "careers.celestica.com:https://careers.celestica.com/job/Toronto-Student-Intern,-Process-and-Applications-(SCM)-ON/1452625733",
+      "key": "job-boards.greenhouse.io:https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005",
       "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.gevernova.com:https://careers.gevernova.com/pcs-application-engineering-co-op-intern-summer-2027/job/R5050417",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "career.cornell.edu:https://career.cornell.edu/jobs/ge-vernova-ge-vernova-engineering-internship-2027-summer-fall",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.wayup.com:https://www.wayup.com/i-Civil-Engineering-j-GE-Vernova-Nuclear-Engineering-Co-Op-Intern-Spring-2027-GE-Vernova-393571029474660",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.aecon.com:https://jobs.aecon.com/job/Toronto-Co-op-Student,-Engineering-ON/606296717",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "interninsider.me:https://interninsider.me/internships/pcl-construction/engineering-student-a7dfa440-acba-4a00-ac93-5075c7e74d4e",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "interninsider.me:https://interninsider.me/internships/pcl-construction/engineering-student-f9833aea-c3a2-4184-b249-67bcb4429dfd",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "jobs.smartrecruiters.com:https://jobs.smartrecruiters.com/CIMA2/744000155627039-industrial-engineering-co-op-",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "careers.amd.com:https://careers.amd.com/careers-home/jobs/90379?lang=en-us",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/short-term-2027-software-engineering-intern-co-op-at-amd-4459288725",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "ca.prosple.com:https://ca.prosple.com/graduate-employers/amd-canada/jobs-internships/long-term-software-engineering-summer-internco-op",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "earlyvia.com:https://earlyvia.com/amd/short-term-2027-graphics-software-engineering-internco-op-28521684",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "interninsider.me:https://interninsider.me/internships/geotab/vehicle-systems-engineering-intern-b892a412-0567-40fd-9d43-3bba34eed51d",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "www.linkedin.com:https://www.linkedin.com/jobs/view/4463879949",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/winter-2027-piping-engineering-co-op-high-pressure-metallurgy-at-hatch-4463577186",
-      "change": "Changed",
-      "status": "Excluded"
-    },
-    {
-      "key": "jobs.spacecapital.com:https://jobs.spacecapital.com/companies/rocket-lab/jobs/92777477-electrical-engineering-intern-summer-2027",
-      "change": "Newly found",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "ca.linkedin.com:https://ca.linkedin.com/jobs/view/short-term-2027-hardware-design-engineering-intern-co-op-at-amd-4459289740",
-      "change": "Changed",
-      "status": "Needs confirmation"
-    },
-    {
-      "key": "talentegg.ca:https://talentegg.ca/career-guides/engineering",
-      "change": "Changed",
       "status": "Needs confirmation"
     }
   ]
